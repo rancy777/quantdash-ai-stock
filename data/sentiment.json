@@ -1,0 +1,338 @@
+[
+  {
+    "date": "2026-03-09",
+    "value": 2,
+    "height": 0,
+    "limitUpCount": 0,
+    "limitDownCount": 0,
+    "riseCount": 337,
+    "rawZt": {
+      "counts": {},
+      "total": 0
+    }
+  },
+  {
+    "date": "2026-03-10",
+    "value": 2,
+    "height": 0,
+    "limitUpCount": 0,
+    "limitDownCount": 0,
+    "riseCount": 999,
+    "rawZt": {
+      "counts": {},
+      "total": 0
+    }
+  },
+  {
+    "date": "2026-03-11",
+    "value": 2,
+    "height": 0,
+    "limitUpCount": 0,
+    "limitDownCount": 0,
+    "riseCount": 442,
+    "rawZt": {
+      "counts": {},
+      "total": 0
+    }
+  },
+  {
+    "date": "2026-03-12",
+    "value": 2,
+    "height": 0,
+    "limitUpCount": 0,
+    "limitDownCount": 0,
+    "riseCount": 329,
+    "rawZt": {
+      "counts": {},
+      "total": 0
+    }
+  },
+  {
+    "date": "2026-03-13",
+    "value": 2,
+    "height": 0,
+    "limitUpCount": 0,
+    "limitDownCount": 0,
+    "riseCount": 414,
+    "rawZt": {
+      "counts": {},
+      "total": 0
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "value": 2,
+    "height": 0,
+    "limitUpCount": 0,
+    "limitDownCount": 0,
+    "riseCount": 672,
+    "rawZt": {
+      "counts": {},
+      "total": 0
+    }
+  },
+  {
+    "date": "2026-03-17",
+    "value": 2,
+    "height": 0,
+    "limitUpCount": 0,
+    "limitDownCount": 0,
+    "riseCount": 166,
+    "rawZt": {
+      "counts": {},
+      "total": 0
+    }
+  },
+  {
+    "date": "2026-03-18",
+    "value": 5,
+    "height": 5,
+    "limitUpCount": 57,
+    "limitDownCount": 0,
+    "riseCount": 780,
+    "rawZt": {
+      "counts": {
+        "3": 2,
+        "1": 50,
+        "2": 4,
+        "5": 1
+      },
+      "total": 57
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "value": 3.33,
+    "height": 4,
+    "limitUpCount": 28,
+    "limitDownCount": 0,
+    "riseCount": 107,
+    "rawZt": {
+      "counts": {
+        "4": 2,
+        "2": 6,
+        "1": 20
+      },
+      "total": 28
+    }
+  },
+  {
+    "date": "2026-03-20",
+    "value": 6.67,
+    "height": 5,
+    "limitUpCount": 28,
+    "limitDownCount": 0,
+    "riseCount": 157,
+    "rawZt": {
+      "counts": {
+        "5": 2,
+        "1": 21,
+        "3": 2,
+        "2": 3
+      },
+      "total": 28
+    }
+  },
+  {
+    "date": "2026-03-23",
+    "value": 4.44,
+    "height": 6,
+    "limitUpCount": 28,
+    "limitDownCount": 0,
+    "riseCount": 98,
+    "rawZt": {
+      "counts": {
+        "2": 2,
+        "1": 23,
+        "4": 1,
+        "6": 1,
+        "3": 1
+      },
+      "total": 28
+    }
+  },
+  {
+    "date": "2026-03-24",
+    "value": 3.75,
+    "height": 7,
+    "limitUpCount": 83,
+    "limitDownCount": 0,
+    "riseCount": 1140,
+    "rawZt": {
+      "counts": {
+        "3": 1,
+        "1": 77,
+        "2": 4,
+        "7": 1
+      },
+      "total": 83
+    }
+  },
+  {
+    "date": "2026-03-25",
+    "value": 8.33,
+    "height": 8,
+    "limitUpCount": 84,
+    "limitDownCount": 0,
+    "riseCount": 1047,
+    "rawZt": {
+      "counts": {
+        "2": 19,
+        "1": 61,
+        "3": 2,
+        "8": 1,
+        "4": 1
+      },
+      "total": 84
+    }
+  },
+  {
+    "date": "2026-03-26",
+    "value": 0.53,
+    "height": 3,
+    "limitUpCount": 39,
+    "limitDownCount": 0,
+    "riseCount": 260,
+    "rawZt": {
+      "counts": {
+        "3": 4,
+        "1": 29,
+        "2": 6
+      },
+      "total": 39
+    }
+  },
+  {
+    "date": "2026-03-27",
+    "value": 3.75,
+    "height": 4,
+    "limitUpCount": 78,
+    "limitDownCount": 0,
+    "riseCount": 1211,
+    "rawZt": {
+      "counts": {
+        "2": 7,
+        "1": 68,
+        "4": 3
+      },
+      "total": 78
+    }
+  },
+  {
+    "date": "2026-03-30",
+    "value": 2.38,
+    "height": 5,
+    "limitUpCount": 62,
+    "limitDownCount": 0,
+    "riseCount": 57,
+    "rawZt": {
+      "counts": {
+        "1": 50,
+        "2": 10,
+        "5": 1,
+        "3": 1
+      },
+      "total": 62
+    }
+  },
+  {
+    "date": "2026-03-31",
+    "value": 3.67,
+    "height": 4,
+    "limitUpCount": 53,
+    "limitDownCount": 0,
+    "riseCount": 70,
+    "rawZt": {
+      "counts": {
+        "1": 45,
+        "2": 6,
+        "3": 1,
+        "4": 1
+      },
+      "total": 53
+    }
+  },
+  {
+    "date": "2026-04-01",
+    "value": 3.33,
+    "height": 4,
+    "limitUpCount": 56,
+    "limitDownCount": 0,
+    "riseCount": 26,
+    "rawZt": {
+      "counts": {
+        "1": 51,
+        "2": 4,
+        "4": 1
+      },
+      "total": 56
+    }
+  },
+  {
+    "date": "2026-04-02",
+    "value": 8.75,
+    "height": 5,
+    "limitUpCount": 28,
+    "limitDownCount": 0,
+    "riseCount": 31,
+    "rawZt": {
+      "counts": {
+        "1": 22,
+        "5": 1,
+        "2": 2,
+        "3": 3
+      },
+      "total": 28
+    }
+  },
+  {
+    "date": "2026-04-03",
+    "value": 3.33,
+    "height": 6,
+    "limitUpCount": 36,
+    "limitDownCount": 0,
+    "riseCount": 1358,
+    "rawZt": {
+      "counts": {
+        "2": 3,
+        "1": 32,
+        "6": 1
+      },
+      "total": 36
+    }
+  },
+  {
+    "date": "2026-04-07",
+    "value": 8.33,
+    "height": 7,
+    "limitUpCount": 93,
+    "limitDownCount": 0,
+    "riseCount": 2473,
+    "rawZt": {
+      "counts": {
+        "3": 2,
+        "1": 86,
+        "7": 1,
+        "2": 4
+      },
+      "total": 93
+    }
+  },
+  {
+    "date": "2026-04-08",
+    "value": 2.5,
+    "height": 4,
+    "limitUpCount": 123,
+    "limitDownCount": 0,
+    "riseCount": 3563,
+    "rawZt": {
+      "counts": {
+        "4": 1,
+        "1": 112,
+        "2": 9,
+        "3": 1
+      },
+      "total": 123
+    }
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "trigger": "sync:all",
+  "startedAt": "2026-04-13T12:28:07.596Z",
+  "finishedAt": "2026-04-13T13:19:47.423Z",
+  "durationMs": 3099827,
+  "updatedAt": "2026-04-13T13:19:47.423Z",
+  "overallStatus": "failed",
+  "counts": {
+    "completed": 1,
+    "skipped": 0,
+    "failed": 1,
+    "total": 2
+  },
+  "onlineTradingDate": "2026-04-10",
+  "onlineMonthDay": "04-10",
+  "latestSnapshots": {
+    "sentiment": "2026-04-10",
+    "performance": "04-10",
+    "emotion": "2026-04-10",
+    "cycle": "03-30",
+    "klineManifestCount": 32,
+    "klineManifestStamp": "2026-03-31"
+  },
+  "stages": [
+    {
+      "key": "market-pipeline",
+      "name": "Market Data Pipeline",
+      "status": "failed",
+      "reason": "py exited with code 1",
+      "startedAt": "2026-04-13T12:28:07.779Z",
+      "finishedAt": "2026-04-13T13:15:25.422Z",
+      "durationMs": 2837643
+    },
+    {
+      "key": "emotion",
+      "name": "Emotion Indicators",
+      "status": "completed",
+      "reason": null,
+      "startedAt": "2026-04-13T13:15:25.423Z",
+      "finishedAt": "2026-04-13T13:19:47.423Z",
+      "durationMs": 262000
+    }
+  ],
+  "extra": {}
+}

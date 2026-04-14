@@ -1,0 +1,21 @@
+双击运行：
+获取单天数据.bat
+补全之前数据.bat
+
+补全之前数据.bat 中可直接选择：
+1 = 完整 Python 离线同步（包含 K 线库，耗时更长）
+2 = 主市场快照
+3 = 股票快照
+4 = 板块快照（可继续选概念 / 行业 / 全部）
+5 = 情绪周期
+6 = 跨市场情绪指标
+7 = K 线库
+
+也可以手动执行：
+npm run sync:offline:py
+npm run sync:market:py
+npm run sync:stocks:py
+npm run sync:sectors:py
+npm run sync:reports
+npm run sync:experts
+node scripts/exportSingleDayProjectData.js YYYY-MM-DD

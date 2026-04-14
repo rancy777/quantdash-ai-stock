@@ -1,0 +1,57 @@
+{
+  "boardType": "industry",
+  "currentLeaderName": "锂矿概念",
+  "currentLeaderCode": "BK1173",
+  "currentLeaderPctChange": 5.52,
+  "currentStreakDays": 1,
+  "currentTopThreeAppearances": 3,
+  "strongestRepeatName": "昨日打二板以上表现",
+  "strongestRepeatCount": 3,
+  "entries": [
+    {
+      "date": "03-23",
+      "leaderName": "昨日打二板以上表现",
+      "leaderCode": "BK1645",
+      "leaderPctChange": 0.03,
+      "streakDays": 1,
+      "topThreeAppearances": 3,
+      "strengthDelta": null
+    },
+    {
+      "date": "03-24",
+      "leaderName": "CRO",
+      "leaderCode": "BK0899",
+      "leaderPctChange": 4.74,
+      "streakDays": 1,
+      "topThreeAppearances": 1,
+      "strengthDelta": null
+    },
+    {
+      "date": "03-25",
+      "leaderName": "昨日打二板以上表现",
+      "leaderCode": "BK1645",
+      "leaderPctChange": 10.0,
+      "streakDays": 1,
+      "topThreeAppearances": 3,
+      "strengthDelta": null
+    },
+    {
+      "date": "03-26",
+      "leaderName": "昨日打二板以上表现",
+      "leaderCode": "BK1645",
+      "leaderPctChange": 1.04,
+      "streakDays": 2,
+      "topThreeAppearances": 3,
+      "strengthDelta": -8.96
+    },
+    {
+      "date": "03-27",
+      "leaderName": "锂矿概念",
+      "leaderCode": "BK1173",
+      "leaderPctChange": 5.52,
+      "streakDays": 1,
+      "topThreeAppearances": 3,
+      "strengthDelta": null
+    }
+  ]
+}

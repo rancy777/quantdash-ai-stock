@@ -1,0 +1,137 @@
+[
+  {
+    "date": "03-23",
+    "fullDate": "2026-03-23",
+    "limitUpCount": 28,
+    "followThroughCount": 6,
+    "brokenCount": 22,
+    "successRate": 0.21428571428571427,
+    "avgBoardGain": 0.21428571428571427
+  },
+  {
+    "date": "03-24",
+    "fullDate": "2026-03-24",
+    "limitUpCount": 83,
+    "followThroughCount": 23,
+    "brokenCount": 60,
+    "successRate": 0.27710843373493976,
+    "avgBoardGain": 0.27710843373493976
+  },
+  {
+    "date": "03-25",
+    "fullDate": "2026-03-25",
+    "limitUpCount": 84,
+    "followThroughCount": 10,
+    "brokenCount": 74,
+    "successRate": 0.11904761904761904,
+    "avgBoardGain": 0.11904761904761904
+  },
+  {
+    "date": "03-26",
+    "fullDate": "2026-03-26",
+    "limitUpCount": 39,
+    "followThroughCount": 10,
+    "brokenCount": 29,
+    "successRate": 0.2564102564102564,
+    "avgBoardGain": 0.2564102564102564
+  },
+  {
+    "date": "03-27",
+    "fullDate": "2026-03-27",
+    "limitUpCount": 78,
+    "followThroughCount": 11,
+    "brokenCount": 67,
+    "successRate": 0.14102564102564102,
+    "avgBoardGain": 0.14102564102564102
+  },
+  {
+    "date": "03-30",
+    "fullDate": "2026-03-30",
+    "limitUpCount": 62,
+    "followThroughCount": 8,
+    "brokenCount": 54,
+    "successRate": 0.12903225806451613,
+    "avgBoardGain": 0.12903225806451613
+  },
+  {
+    "date": "03-31",
+    "fullDate": "2026-03-31",
+    "limitUpCount": 53,
+    "followThroughCount": 5,
+    "brokenCount": 48,
+    "successRate": 0.09433962264150944,
+    "avgBoardGain": 0.09433962264150944
+  },
+  {
+    "date": "04-01",
+    "fullDate": "2026-04-01",
+    "limitUpCount": 56,
+    "followThroughCount": 6,
+    "brokenCount": 50,
+    "successRate": 0.10714285714285714,
+    "avgBoardGain": 0.10714285714285714
+  },
+  {
+    "date": "04-02",
+    "fullDate": "2026-04-02",
+    "limitUpCount": 28,
+    "followThroughCount": 4,
+    "brokenCount": 24,
+    "successRate": 0.14285714285714285,
+    "avgBoardGain": 0.14285714285714285
+  },
+  {
+    "date": "04-03",
+    "fullDate": "2026-04-03",
+    "limitUpCount": 36,
+    "followThroughCount": 0,
+    "brokenCount": 36,
+    "successRate": 0.0,
+    "avgBoardGain": 0.0
+  },
+  {
+    "date": "04-06",
+    "fullDate": "2026-04-06",
+    "limitUpCount": 0,
+    "followThroughCount": 0,
+    "brokenCount": 0,
+    "successRate": 0,
+    "avgBoardGain": 0
+  },
+  {
+    "date": "04-07",
+    "fullDate": "2026-04-07",
+    "limitUpCount": 93,
+    "followThroughCount": 11,
+    "brokenCount": 82,
+    "successRate": 0.11827956989247312,
+    "avgBoardGain": 0.11827956989247312
+  },
+  {
+    "date": "04-08",
+    "fullDate": "2026-04-08",
+    "limitUpCount": 123,
+    "followThroughCount": 12,
+    "brokenCount": 111,
+    "successRate": 0.0975609756097561,
+    "avgBoardGain": 0.0975609756097561
+  },
+  {
+    "date": "04-09",
+    "fullDate": "2026-04-09",
+    "limitUpCount": 53,
+    "followThroughCount": 12,
+    "brokenCount": 41,
+    "successRate": 0.22641509433962265,
+    "avgBoardGain": 0.22641509433962265
+  },
+  {
+    "date": "04-10",
+    "fullDate": "2026-04-10",
+    "limitUpCount": 59,
+    "followThroughCount": 0,
+    "brokenCount": 59,
+    "successRate": 0,
+    "avgBoardGain": 0
+  }
+]

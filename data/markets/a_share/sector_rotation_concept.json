@@ -1,0 +1,271 @@
+{
+  "dates": [
+    "04-13",
+    "04-10",
+    "04-09",
+    "04-08",
+    "04-07"
+  ],
+  "ranks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "data": {
+    "04-13": {
+      "1": {
+        "code": "BK1462",
+        "name": "玻纤制造",
+        "pctChange": 8.32,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1318",
+        "name": "光伏主材",
+        "pctChange": 5.95,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1510",
+        "name": "其他养殖",
+        "pctChange": 4.93,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1276",
+        "name": "油气开采Ⅱ",
+        "pctChange": 4.48,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1574",
+        "name": "油气开采Ⅲ",
+        "pctChange": 4.48,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1319",
+        "name": "硅料硅片",
+        "pctChange": 4.15,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1015",
+        "name": "能源金属",
+        "pctChange": 4.02,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1375",
+        "name": "光伏发电",
+        "pctChange": 3.41,
+        "rank": 8
+      }
+    },
+    "04-10": {
+      "1": {
+        "code": "BK1462",
+        "name": "玻纤制造",
+        "pctChange": 4.69,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1320",
+        "name": "逆变器",
+        "pctChange": 4.06,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1015",
+        "name": "能源金属",
+        "pctChange": 2.92,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1530",
+        "name": "商用载货车",
+        "pctChange": 2.07,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1305",
+        "name": "燃料电池",
+        "pctChange": 1.7,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1318",
+        "name": "光伏主材",
+        "pctChange": 1.65,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1340",
+        "name": "印制电路板",
+        "pctChange": 0.92,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1315",
+        "name": "光伏电池组件",
+        "pctChange": 0.61,
+        "rank": 8
+      }
+    },
+    "04-09": {
+      "1": {
+        "code": "BK1573",
+        "name": "油田服务",
+        "pctChange": 1.31,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1276",
+        "name": "油气开采Ⅱ",
+        "pctChange": 1.29,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1574",
+        "name": "油气开采Ⅲ",
+        "pctChange": 1.29,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1340",
+        "name": "印制电路板",
+        "pctChange": 1.03,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1320",
+        "name": "逆变器",
+        "pctChange": 0.14,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1388",
+        "name": "大气治理",
+        "pctChange": -0.23,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1462",
+        "name": "玻纤制造",
+        "pctChange": -0.54,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1015",
+        "name": "能源金属",
+        "pctChange": -0.66,
+        "rank": 8
+      }
+    },
+    "04-08": {
+      "1": {
+        "code": "BK1340",
+        "name": "印制电路板",
+        "pctChange": 7.37,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1614",
+        "name": "铅锌",
+        "pctChange": 5.5,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1462",
+        "name": "玻纤制造",
+        "pctChange": 5.16,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1388",
+        "name": "大气治理",
+        "pctChange": 4.65,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1318",
+        "name": "光伏主材",
+        "pctChange": 4.28,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1315",
+        "name": "光伏电池组件",
+        "pctChange": 3.85,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1319",
+        "name": "硅料硅片",
+        "pctChange": 3.8,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1305",
+        "name": "燃料电池",
+        "pctChange": 3.09,
+        "rank": 8
+      }
+    },
+    "04-07": {
+      "1": {
+        "code": "BK1580",
+        "name": "肉制品",
+        "pctChange": 3.89,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1511",
+        "name": "肉鸡养殖",
+        "pctChange": 3.21,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1305",
+        "name": "燃料电池",
+        "pctChange": 2.79,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1259",
+        "name": "养殖业",
+        "pctChange": 2.5,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1512",
+        "name": "生猪养殖",
+        "pctChange": 2.32,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1340",
+        "name": "印制电路板",
+        "pctChange": 1.84,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1375",
+        "name": "光伏发电",
+        "pctChange": 1.45,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1276",
+        "name": "油气开采Ⅱ",
+        "pctChange": 1.41,
+        "rank": 8
+      }
+    }
+  }
+}

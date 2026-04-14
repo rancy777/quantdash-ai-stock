@@ -1,0 +1,271 @@
+{
+  "dates": [
+    "03-27",
+    "03-26",
+    "03-25",
+    "03-24",
+    "03-23"
+  ],
+  "ranks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "data": {
+    "03-27": {
+      "1": {
+        "code": "BK1173",
+        "name": "锂矿概念",
+        "pctChange": 5.52,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK0870",
+        "name": "单抗概念",
+        "pctChange": 5.01,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK0894",
+        "name": "阿兹海默",
+        "pctChange": 4.96,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1146",
+        "name": "减肥药",
+        "pctChange": 4.81,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK0899",
+        "name": "CRO",
+        "pctChange": 4.73,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1106",
+        "name": "创新药",
+        "pctChange": 4.63,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK0862",
+        "name": "超级真菌",
+        "pctChange": 4.52,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1063",
+        "name": "重组蛋白",
+        "pctChange": 4.38,
+        "rank": 8
+      }
+    },
+    "03-26": {
+      "1": {
+        "code": "BK1645",
+        "name": "昨日打二板以上表现",
+        "pctChange": 1.04,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1173",
+        "name": "锂矿概念",
+        "pctChange": 0.58,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK0855",
+        "name": "纳米银",
+        "pctChange": 0.38,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK0899",
+        "name": "CRO",
+        "pctChange": -0.47,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK0862",
+        "name": "超级真菌",
+        "pctChange": -0.57,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1146",
+        "name": "减肥药",
+        "pctChange": -0.59,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK0894",
+        "name": "阿兹海默",
+        "pctChange": -0.72,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1106",
+        "name": "创新药",
+        "pctChange": -0.73,
+        "rank": 8
+      }
+    },
+    "03-25": {
+      "1": {
+        "code": "BK1645",
+        "name": "昨日打二板以上表现",
+        "pctChange": 10.0,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK0950",
+        "name": "草甘膦",
+        "pctChange": 2.81,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK0944",
+        "name": "肝素概念",
+        "pctChange": 2.41,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK0805",
+        "name": "钛白粉概念",
+        "pctChange": 2.27,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1173",
+        "name": "锂矿概念",
+        "pctChange": 2.2,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1078",
+        "name": "肝炎概念",
+        "pctChange": 1.95,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1010",
+        "name": "磷化工",
+        "pctChange": 1.92,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK0894",
+        "name": "阿兹海默",
+        "pctChange": 1.73,
+        "rank": 8
+      }
+    },
+    "03-24": {
+      "1": {
+        "code": "BK0899",
+        "name": "CRO",
+        "pctChange": 4.74,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK0986",
+        "name": "CAR-T细胞疗法",
+        "pctChange": 4.52,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK0939",
+        "name": "辅助生殖",
+        "pctChange": 4.25,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK0698",
+        "name": "免疫治疗",
+        "pctChange": 4.15,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1063",
+        "name": "重组蛋白",
+        "pctChange": 4.07,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1056",
+        "name": "幽门螺杆菌概念",
+        "pctChange": 4.03,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1106",
+        "name": "创新药",
+        "pctChange": 3.9,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK0805",
+        "name": "钛白粉概念",
+        "pctChange": 3.88,
+        "rank": 8
+      }
+    },
+    "03-23": {
+      "1": {
+        "code": "BK1645",
+        "name": "昨日打二板以上表现",
+        "pctChange": 0.03,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1173",
+        "name": "锂矿概念",
+        "pctChange": -2.0,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK0805",
+        "name": "钛白粉概念",
+        "pctChange": -3.04,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK0950",
+        "name": "草甘膦",
+        "pctChange": -3.15,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1010",
+        "name": "磷化工",
+        "pctChange": -3.43,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1146",
+        "name": "减肥药",
+        "pctChange": -5.22,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK0870",
+        "name": "单抗概念",
+        "pctChange": -5.29,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1078",
+        "name": "肝炎概念",
+        "pctChange": -5.47,
+        "rank": 8
+      }
+    }
+  }
+}

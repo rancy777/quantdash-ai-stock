@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2026-03-27",
+    "ftseA50": 14653.97,
+    "nasdaq": 20948.36,
+    "dowJones": 45166.64,
+    "sp500": 6368.85,
+    "offshoreRmb": 6.9203,
+    "ashareAvgValuation": 16.2,
+    "indexFuturesLongShortRatio": 0.8661
+  },
+  {
+    "date": "2026-03-30",
+    "ftseA50": 14642.42,
+    "nasdaq": 20794.64,
+    "dowJones": 45216.14,
+    "sp500": 6343.72,
+    "offshoreRmb": 6.9166,
+    "ashareAvgValuation": 100.0,
+    "indexFuturesLongShortRatio": 0.8671
+  },
+  {
+    "date": "2026-03-31",
+    "ftseA50": 14573.82,
+    "nasdaq": 21590.63,
+    "dowJones": 46341.51,
+    "sp500": 6528.52,
+    "offshoreRmb": 6.888,
+    "ashareAvgValuation": 100.0,
+    "indexFuturesLongShortRatio": 0.862
+  },
+  {
+    "date": "2026-04-01",
+    "ftseA50": 14792.22,
+    "nasdaq": 21840.95,
+    "dowJones": 46565.74,
+    "sp500": 6575.32,
+    "offshoreRmb": 6.8788,
+    "ashareAvgValuation": 100.0,
+    "indexFuturesLongShortRatio": 0.87
+  },
+  {
+    "date": "2026-04-02",
+    "ftseA50": 14684.93,
+    "nasdaq": 21879.18,
+    "dowJones": 46504.67,
+    "sp500": 6582.69,
+    "offshoreRmb": 6.8898,
+    "ashareAvgValuation": 100.0,
+    "indexFuturesLongShortRatio": 0.8755
+  },
+  {
+    "date": "2026-04-07",
+    "ftseA50": 14529.54,
+    "nasdaq": 22017.85,
+    "dowJones": 46584.46,
+    "sp500": 6616.85,
+    "offshoreRmb": 6.8558,
+    "ashareAvgValuation": 100.0,
+    "indexFuturesLongShortRatio": 0.8763
+  },
+  {
+    "date": "2026-04-08",
+    "ftseA50": 14942.88,
+    "nasdaq": 22635.0,
+    "dowJones": 47909.92,
+    "sp500": 6782.81,
+    "offshoreRmb": 6.8334,
+    "ashareAvgValuation": 100.0,
+    "indexFuturesLongShortRatio": 0.8685
+  },
+  {
+    "date": "2026-04-09",
+    "ftseA50": 14851.84,
+    "nasdaq": 22822.42,
+    "dowJones": 48185.8,
+    "sp500": 6824.66,
+    "offshoreRmb": 6.8282,
+    "ashareAvgValuation": 100.0,
+    "indexFuturesLongShortRatio": 0.8669
+  },
+  {
+    "date": "2026-04-10",
+    "ftseA50": 15083.32,
+    "nasdaq": 22902.89,
+    "dowJones": 47916.57,
+    "sp500": 6816.89,
+    "offshoreRmb": 6.8253,
+    "ashareAvgValuation": 100.0,
+    "indexFuturesLongShortRatio": 0.8673
+  }
+]

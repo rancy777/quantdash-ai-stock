@@ -1,0 +1,270 @@
+[
+  {
+    "code": "IF",
+    "label": "沪深300",
+    "mainContract": "IF2606",
+    "history": [
+      {
+        "date": "2026-03-26",
+        "longPosition": 97056,
+        "shortPosition": 112231
+      },
+      {
+        "date": "2026-03-27",
+        "longPosition": 99207,
+        "shortPosition": 114551
+      },
+      {
+        "date": "2026-03-30",
+        "longPosition": 96727,
+        "shortPosition": 111554
+      },
+      {
+        "date": "2026-03-31",
+        "longPosition": 97669,
+        "shortPosition": 113304
+      },
+      {
+        "date": "2026-04-01",
+        "longPosition": 95999,
+        "shortPosition": 110345
+      },
+      {
+        "date": "2026-04-02",
+        "longPosition": 97429,
+        "shortPosition": 111283
+      },
+      {
+        "date": "2026-04-03",
+        "longPosition": 94808,
+        "shortPosition": 108253
+      },
+      {
+        "date": "2026-04-07",
+        "longPosition": 95419,
+        "shortPosition": 108891
+      },
+      {
+        "date": "2026-04-08",
+        "longPosition": 100416,
+        "shortPosition": 115619
+      },
+      {
+        "date": "2026-04-09",
+        "longPosition": 94296,
+        "shortPosition": 108776
+      },
+      {
+        "date": "2026-04-10",
+        "longPosition": 98497,
+        "shortPosition": 113570
+      },
+      {
+        "date": "2026-04-13",
+        "longPosition": 93223,
+        "shortPosition": 107545
+      }
+    ]
+  },
+  {
+    "code": "IC",
+    "label": "中证500",
+    "mainContract": "IC2606",
+    "history": [
+      {
+        "date": "2026-03-26",
+        "longPosition": 104828,
+        "shortPosition": 120149
+      },
+      {
+        "date": "2026-03-27",
+        "longPosition": 108087,
+        "shortPosition": 124693
+      },
+      {
+        "date": "2026-03-30",
+        "longPosition": 105901,
+        "shortPosition": 123189
+      },
+      {
+        "date": "2026-03-31",
+        "longPosition": 108940,
+        "shortPosition": 125932
+      },
+      {
+        "date": "2026-04-01",
+        "longPosition": 105187,
+        "shortPosition": 122785
+      },
+      {
+        "date": "2026-04-02",
+        "longPosition": 108377,
+        "shortPosition": 123187
+      },
+      {
+        "date": "2026-04-03",
+        "longPosition": 101569,
+        "shortPosition": 116347
+      },
+      {
+        "date": "2026-04-07",
+        "longPosition": 101944,
+        "shortPosition": 117536
+      },
+      {
+        "date": "2026-04-08",
+        "longPosition": 111140,
+        "shortPosition": 129961
+      },
+      {
+        "date": "2026-04-09",
+        "longPosition": 102436,
+        "shortPosition": 120806
+      },
+      {
+        "date": "2026-04-10",
+        "longPosition": 107831,
+        "shortPosition": 127115
+      },
+      {
+        "date": "2026-04-13",
+        "longPosition": 99745,
+        "shortPosition": 119178
+      }
+    ]
+  },
+  {
+    "code": "IH",
+    "label": "上证50",
+    "mainContract": "IH2606",
+    "history": [
+      {
+        "date": "2026-03-26",
+        "longPosition": 37588,
+        "shortPosition": 48499
+      },
+      {
+        "date": "2026-03-27",
+        "longPosition": 38366,
+        "shortPosition": 49004
+      },
+      {
+        "date": "2026-03-30",
+        "longPosition": 38343,
+        "shortPosition": 49164
+      },
+      {
+        "date": "2026-03-31",
+        "longPosition": 38492,
+        "shortPosition": 48280
+      },
+      {
+        "date": "2026-04-01",
+        "longPosition": 37855,
+        "shortPosition": 47337
+      },
+      {
+        "date": "2026-04-02",
+        "longPosition": 36795,
+        "shortPosition": 46422
+      },
+      {
+        "date": "2026-04-03",
+        "longPosition": 35456,
+        "shortPosition": 45244
+      },
+      {
+        "date": "2026-04-07",
+        "longPosition": 37029,
+        "shortPosition": 46933
+      },
+      {
+        "date": "2026-04-08",
+        "longPosition": 40688,
+        "shortPosition": 51116
+      },
+      {
+        "date": "2026-04-09",
+        "longPosition": 36165,
+        "shortPosition": 46499
+      },
+      {
+        "date": "2026-04-10",
+        "longPosition": 37695,
+        "shortPosition": 47443
+      },
+      {
+        "date": "2026-04-13",
+        "longPosition": 34915,
+        "shortPosition": 44345
+      }
+    ]
+  },
+  {
+    "code": "IM",
+    "label": "中证1000",
+    "mainContract": "IM2606",
+    "history": [
+      {
+        "date": "2026-03-26",
+        "longPosition": 133659,
+        "shortPosition": 157831
+      },
+      {
+        "date": "2026-03-27",
+        "longPosition": 133832,
+        "shortPosition": 158971
+      },
+      {
+        "date": "2026-03-30",
+        "longPosition": 134076,
+        "shortPosition": 158743
+      },
+      {
+        "date": "2026-03-31",
+        "longPosition": 134490,
+        "shortPosition": 161448
+      },
+      {
+        "date": "2026-04-01",
+        "longPosition": 129308,
+        "shortPosition": 157209
+      },
+      {
+        "date": "2026-04-02",
+        "longPosition": 136055,
+        "shortPosition": 162766
+      },
+      {
+        "date": "2026-04-03",
+        "longPosition": 132425,
+        "shortPosition": 158836
+      },
+      {
+        "date": "2026-04-07",
+        "longPosition": 128034,
+        "shortPosition": 154806
+      },
+      {
+        "date": "2026-04-08",
+        "longPosition": 131837,
+        "shortPosition": 162026
+      },
+      {
+        "date": "2026-04-09",
+        "longPosition": 124416,
+        "shortPosition": 153389
+      },
+      {
+        "date": "2026-04-10",
+        "longPosition": 128160,
+        "shortPosition": 157774
+      },
+      {
+        "date": "2026-04-13",
+        "longPosition": 121587,
+        "shortPosition": 150387
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "name": "QuantDash - A-Share Analytics",
+  "description": "A high-performance, dark-themed quantitative analysis dashboard for the A-share market featuring glassmorphism design, real-time data visualization, and sentiment tracking.",
+  "requestFramePermissions": []
+}

@@ -84,7 +84,7 @@ const SkillsSection: React.FC = () => {
     () =>
       scopeMeta.map((scope) => ({
         scope,
-        skills: skills.filter((skill) => (skill.scopes[0] ?? 'dailyReview') === scope.key),
+        skills: skills.filter((skill) => skill.scopes.includes(scope.key)),
       })),
     [skills]
   );

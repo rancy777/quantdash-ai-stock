@@ -1,0 +1,53 @@
+{
+  "name": "quantdash---a-share-analytics",
+  "description": "A-share analytics dashboard for market review, sentiment tracking, report workflows, and AI-assisted planning.",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint \"components/**/*.{ts,tsx}\" \"services/**/*.{ts,tsx}\" --no-error-on-unmatched-pattern",
+    "preview": "vite preview",
+    "start:project": "node scripts/startProjectLauncher.cjs",
+    "stop:project": "node scripts/stopProjectLauncher.cjs",
+    "fetch:data": "node scripts/fetchMarketData.js",
+    "sync:all": "node scripts/syncAllData.js",
+    "sync:market:py": "node scripts/syncMarketCorePy.js",
+    "sync:kline:py": "node scripts/syncKlineLibraryPy.js",
+    "sync:cycle": "node scripts/syncSentimentCycleSnapshotsPy.js",
+    "sync:cycle:py": "node scripts/syncSentimentCycleSnapshotsPy.js",
+    "sync:stocks": "node scripts/syncStockSnapshotsPy.js",
+    "sync:sectors": "node scripts/syncSectorSnapshotsPy.js",
+    "sync:stocks:py": "node scripts/syncStockSnapshotsPy.js",
+    "sync:sectors:py": "node scripts/syncSectorSnapshotsPy.js",
+    "sync:offline:py": "node scripts/syncPythonOfflineData.js",
+    "fetch:data:auto": "node scripts/autoDownloadMarketData.js",
+    "sync:startup-check": "node scripts/ensureStartupData.js",
+    "sync:emotion": "node scripts/syncEmotionIndicators.js",
+    "sync:reports": "node scripts/syncResearchReports.js",
+    "sync:experts": "node scripts/syncExpertHoldings.js",
+    "mcp:server": "node scripts/mcp-server.js",
+    "feishu:bot": "node scripts/integrations/feishu/bot-server.js"
+  },
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.60.0",
+    "@modelcontextprotocol/sdk": "^1.28.0",
+    "lucide-react": "^0.555.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "recharts": "^3.5.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.28.0",
+    "@typescript-eslint/parser": "^8.28.0",
+    "eslint": "^9.23.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

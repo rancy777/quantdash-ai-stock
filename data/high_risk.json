@@ -1,0 +1,56 @@
+[
+  {
+    "date": "03-20",
+    "highBoardCount": 2,
+    "aKillCount": 1,
+    "weakCount": 1,
+    "brokenCount": 23,
+    "brokenRate": 82.1,
+    "riskLevel": "high"
+  },
+  {
+    "date": "03-23",
+    "highBoardCount": 2,
+    "aKillCount": 0,
+    "weakCount": 0,
+    "brokenCount": 15,
+    "brokenRate": 53.6,
+    "riskLevel": "high"
+  },
+  {
+    "date": "03-24",
+    "highBoardCount": 1,
+    "aKillCount": 0,
+    "weakCount": 0,
+    "brokenCount": 22,
+    "brokenRate": 26.5,
+    "riskLevel": "medium"
+  },
+  {
+    "date": "03-25",
+    "highBoardCount": 2,
+    "aKillCount": 0,
+    "weakCount": 1,
+    "brokenCount": 14,
+    "brokenRate": 16.7,
+    "riskLevel": "low"
+  },
+  {
+    "date": "03-26",
+    "highBoardCount": 0,
+    "aKillCount": 0,
+    "weakCount": 0,
+    "brokenCount": 18,
+    "brokenRate": 46.2,
+    "riskLevel": "high"
+  },
+  {
+    "date": "03-27",
+    "highBoardCount": 3,
+    "aKillCount": 0,
+    "weakCount": 0,
+    "brokenCount": 16,
+    "brokenRate": 20.5,
+    "riskLevel": "medium"
+  }
+]

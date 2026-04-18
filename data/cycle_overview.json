@@ -1,0 +1,13 @@
+{
+  "stage": "试错",
+  "confidence": 65,
+  "riskLevel": "中风险",
+  "volumeState": "放量滞涨",
+  "latestVolumeAmount": 18959,
+  "volumeChangeRate": 2.3,
+  "reasons": [
+    "首板占比较高，资金仍在低位试错",
+    "量能放大但情绪指标未同步走强",
+    "炸板修复率改善，亏钱效应减弱"
+  ]
+}

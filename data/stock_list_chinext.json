@@ -1,0 +1,3160 @@
+[
+  {
+    "symbol": "301008",
+    "name": "宏昌科技",
+    "price": 42.29,
+    "pctChange": 20.01,
+    "volume": "28.9万",
+    "turnover": "11.59亿",
+    "industry": "创业板",
+    "concepts": [
+      "家电零部件Ⅱ",
+      "家电零部件Ⅲ"
+    ],
+    "pe": 164.91,
+    "pb": 3.7,
+    "marketCap": 55
+  },
+  {
+    "symbol": "301255",
+    "name": "通力科技",
+    "price": 29.76,
+    "pctChange": 20.0,
+    "volume": "8.7万",
+    "turnover": "2.43亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 102.56,
+    "pb": 4.31,
+    "marketCap": 45
+  },
+  {
+    "symbol": "301079",
+    "name": "邵阳液压",
+    "price": 44.76,
+    "pctChange": 20.0,
+    "volume": "18.2万",
+    "turnover": "7.79亿",
+    "industry": "创业板",
+    "concepts": [
+      "工程机械",
+      "工程机械器件"
+    ],
+    "pe": 1484.81,
+    "pb": 10.31,
+    "marketCap": 49
+  },
+  {
+    "symbol": "300992",
+    "name": "泰福泵业",
+    "price": 41.88,
+    "pctChange": 20.0,
+    "volume": "15.6万",
+    "turnover": "5.89亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 227.34,
+    "pb": 4.42,
+    "marketCap": 40
+  },
+  {
+    "symbol": "300834",
+    "name": "星辉环材",
+    "price": 30.2,
+    "pctChange": 19.98,
+    "volume": "11.4万",
+    "turnover": "3.41亿",
+    "industry": "创业板",
+    "concepts": [
+      "改性塑料"
+    ],
+    "pe": 110.89,
+    "pb": 1.99,
+    "marketCap": 59
+  },
+  {
+    "symbol": "301048",
+    "name": "金鹰重工",
+    "price": 13.09,
+    "pctChange": 19.98,
+    "volume": "49.1万",
+    "turnover": "6.12亿",
+    "industry": "创业板",
+    "concepts": [
+      "轨交设备Ⅲ"
+    ],
+    "pe": 41.83,
+    "pb": 2.55,
+    "marketCap": 70
+  },
+  {
+    "symbol": "300960",
+    "name": "通业科技",
+    "price": 27.49,
+    "pctChange": 14.59,
+    "volume": "10.4万",
+    "turnover": "2.79亿",
+    "industry": "创业板",
+    "concepts": [
+      "轨交设备Ⅲ"
+    ],
+    "pe": 75.26,
+    "pb": 6.13,
+    "marketCap": 40
+  },
+  {
+    "symbol": "301323",
+    "name": "新莱福",
+    "price": 62.86,
+    "pctChange": 12.49,
+    "volume": "7.0万",
+    "turnover": "4.28亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 47.66,
+    "pb": 3.05,
+    "marketCap": 66
+  },
+  {
+    "symbol": "300825",
+    "name": "阿尔特",
+    "price": 9.4,
+    "pctChange": 12.44,
+    "volume": "36.8万",
+    "turnover": "3.38亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车",
+      "汽车服务",
+      "汽车综合服务"
+    ],
+    "pe": -23.28,
+    "pb": 2.22,
+    "marketCap": 47
+  },
+  {
+    "symbol": "300411",
+    "name": "金盾股份",
+    "price": 11.21,
+    "pctChange": 11.43,
+    "volume": "22.6万",
+    "turnover": "2.45亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 235.32,
+    "pb": 4.7,
+    "marketCap": 46
+  },
+  {
+    "symbol": "301179",
+    "name": "泽宇智能",
+    "price": 25.35,
+    "pctChange": 11.38,
+    "volume": "34.4万",
+    "turnover": "8.52亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 132.46,
+    "pb": 4.23,
+    "marketCap": 103
+  },
+  {
+    "symbol": "301128",
+    "name": "强瑞技术",
+    "price": 148.03,
+    "pctChange": 9.22,
+    "volume": "14.3万",
+    "turnover": "21.28亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 99.07,
+    "pb": 17.21,
+    "marketCap": 153
+  },
+  {
+    "symbol": "301201",
+    "name": "诚达药业",
+    "price": 51.7,
+    "pctChange": 9.0,
+    "volume": "19.2万",
+    "turnover": "9.80亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 357.65,
+    "pb": 3.76,
+    "marketCap": 80
+  },
+  {
+    "symbol": "301333",
+    "name": "诺思格",
+    "price": 68.65,
+    "pctChange": 7.86,
+    "volume": "5.7万",
+    "turnover": "3.93亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 48.43,
+    "pb": 3.37,
+    "marketCap": 66
+  },
+  {
+    "symbol": "301399",
+    "name": "英特科技",
+    "price": 24.89,
+    "pctChange": 7.75,
+    "volume": "21.4万",
+    "turnover": "5.19亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 156.82,
+    "pb": 3.51,
+    "marketCap": 46
+  },
+  {
+    "symbol": "300532",
+    "name": "今天国际",
+    "price": 11.14,
+    "pctChange": 6.5,
+    "volume": "27.1万",
+    "turnover": "3.02亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 21.51,
+    "pb": 2.82,
+    "marketCap": 51
+  },
+  {
+    "symbol": "301310",
+    "name": "鑫宏业",
+    "price": 40.37,
+    "pctChange": 6.21,
+    "volume": "4.3万",
+    "turnover": "1.70亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": 44.0,
+    "pb": 2.41,
+    "marketCap": 55
+  },
+  {
+    "symbol": "300069",
+    "name": "金利华电",
+    "price": 21.08,
+    "pctChange": 6.14,
+    "volume": "27.3万",
+    "turnover": "5.66亿",
+    "industry": "创业板",
+    "concepts": [
+      "线缆部件及其他"
+    ],
+    "pe": 254.99,
+    "pb": 8.73,
+    "marketCap": 25
+  },
+  {
+    "symbol": "300680",
+    "name": "隆盛科技",
+    "price": 41.1,
+    "pctChange": 5.66,
+    "volume": "18.3万",
+    "turnover": "7.47亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": 33.38,
+    "pb": 4.72,
+    "marketCap": 94
+  },
+  {
+    "symbol": "300651",
+    "name": "金陵体育",
+    "price": 30.11,
+    "pctChange": 5.1,
+    "volume": "22.3万",
+    "turnover": "6.78亿",
+    "industry": "创业板",
+    "concepts": [
+      "娱乐用品",
+      "文娱用品"
+    ],
+    "pe": 90.33,
+    "pb": 3.93,
+    "marketCap": 43
+  },
+  {
+    "symbol": "300906",
+    "name": "日月明",
+    "price": 33.45,
+    "pctChange": 5.02,
+    "volume": "4.5万",
+    "turnover": "1.50亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 55.06,
+    "pb": 2.97,
+    "marketCap": 27
+  },
+  {
+    "symbol": "301365",
+    "name": "矩阵股份",
+    "price": 29.86,
+    "pctChange": 4.99,
+    "volume": "9.2万",
+    "turnover": "2.76亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 58.56,
+    "pb": 3.08,
+    "marketCap": 54
+  },
+  {
+    "symbol": "301053",
+    "name": "远信工业",
+    "price": 40.46,
+    "pctChange": 4.9,
+    "volume": "8.6万",
+    "turnover": "3.43亿",
+    "industry": "创业板",
+    "concepts": [
+      "纺织服装设备"
+    ],
+    "pe": 189.15,
+    "pb": 5.01,
+    "marketCap": 37
+  },
+  {
+    "symbol": "300503",
+    "name": "昊志机电",
+    "price": 52.03,
+    "pctChange": 4.86,
+    "volume": "26.3万",
+    "turnover": "13.67亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 98.93,
+    "pb": 11.93,
+    "marketCap": 160
+  },
+  {
+    "symbol": "300994",
+    "name": "久祺股份",
+    "price": 16.52,
+    "pctChange": 4.82,
+    "volume": "17.7万",
+    "turnover": "2.88亿",
+    "industry": "创业板",
+    "concepts": [
+      "其他运输设备",
+      "汽车"
+    ],
+    "pe": 22.34,
+    "pb": 3.21,
+    "marketCap": 39
+  },
+  {
+    "symbol": "300775",
+    "name": "三角防务",
+    "price": 37.19,
+    "pctChange": 4.73,
+    "volume": "50.8万",
+    "turnover": "19.01亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 40.68,
+    "pb": 3.48,
+    "marketCap": 204
+  },
+  {
+    "symbol": "300759",
+    "name": "康龙化成",
+    "price": 27.98,
+    "pctChange": 4.56,
+    "volume": "55.6万",
+    "turnover": "15.75亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 30.9,
+    "pb": 3.3,
+    "marketCap": 514
+  },
+  {
+    "symbol": "300204",
+    "name": "舒泰神",
+    "price": 30.03,
+    "pctChange": 4.38,
+    "volume": "81.6万",
+    "turnover": "24.08亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -350.63,
+    "pb": 16.48,
+    "marketCap": 143
+  },
+  {
+    "symbol": "301016",
+    "name": "雷尔伟",
+    "price": 23.4,
+    "pctChange": 4.37,
+    "volume": "7.8万",
+    "turnover": "1.82亿",
+    "industry": "创业板",
+    "concepts": [
+      "轨交设备Ⅲ"
+    ],
+    "pe": 72.17,
+    "pb": 4.97,
+    "marketCap": 51
+  },
+  {
+    "symbol": "300300",
+    "name": "海峡创新",
+    "price": 14.82,
+    "pctChange": 4.37,
+    "volume": "212.7万",
+    "turnover": "31.87亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -429.97,
+    "pb": 69.66,
+    "marketCap": 99
+  },
+  {
+    "symbol": "301282",
+    "name": "金禄电子",
+    "price": 34.5,
+    "pctChange": 4.32,
+    "volume": "17.8万",
+    "turnover": "6.13亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 57.68,
+    "pb": 3.04,
+    "marketCap": 52
+  },
+  {
+    "symbol": "300733",
+    "name": "西菱动力",
+    "price": 19.2,
+    "pctChange": 4.23,
+    "volume": "13.5万",
+    "turnover": "2.57亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": 58.1,
+    "pb": 3.43,
+    "marketCap": 59
+  },
+  {
+    "symbol": "300385",
+    "name": "雪浪环境",
+    "price": 20.62,
+    "pctChange": 4.04,
+    "volume": "79.4万",
+    "turnover": "16.49亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -32.67,
+    "pb": 83.36,
+    "marketCap": 69
+  },
+  {
+    "symbol": "301516",
+    "name": "中远通",
+    "price": 19.32,
+    "pctChange": 3.98,
+    "volume": "17.8万",
+    "turnover": "3.43亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -97.73,
+    "pb": 4.2,
+    "marketCap": 54
+  },
+  {
+    "symbol": "300265",
+    "name": "通光线缆",
+    "price": 19.14,
+    "pctChange": 3.97,
+    "volume": "90.1万",
+    "turnover": "16.84亿",
+    "industry": "创业板",
+    "concepts": [
+      "线缆部件及其他"
+    ],
+    "pe": 208.89,
+    "pb": 3.88,
+    "marketCap": 89
+  },
+  {
+    "symbol": "300102",
+    "name": "乾照光电",
+    "price": 32.29,
+    "pctChange": 3.93,
+    "volume": "101.9万",
+    "turnover": "33.55亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 259.2,
+    "pb": 6.91,
+    "marketCap": 297
+  },
+  {
+    "symbol": "301265",
+    "name": "华新环保",
+    "price": 21.33,
+    "pctChange": 3.85,
+    "volume": "12.7万",
+    "turnover": "2.67亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 89.21,
+    "pb": 3.06,
+    "marketCap": 65
+  },
+  {
+    "symbol": "301157",
+    "name": "华塑科技",
+    "price": 63.5,
+    "pctChange": 3.83,
+    "volume": "4.8万",
+    "turnover": "3.04亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 150.08,
+    "pb": 3.48,
+    "marketCap": 38
+  },
+  {
+    "symbol": "300819",
+    "name": "聚杰微纤",
+    "price": 40.86,
+    "pctChange": 3.81,
+    "volume": "9.9万",
+    "turnover": "4.06亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 87.11,
+    "pb": 7.01,
+    "marketCap": 61
+  },
+  {
+    "symbol": "300011",
+    "name": "鼎汉技术",
+    "price": 8.15,
+    "pctChange": 3.69,
+    "volume": "25.1万",
+    "turnover": "2.04亿",
+    "industry": "创业板",
+    "concepts": [
+      "轨交设备Ⅲ"
+    ],
+    "pe": 288.97,
+    "pb": 3.39,
+    "marketCap": 49
+  },
+  {
+    "symbol": "300328",
+    "name": "宜安科技",
+    "price": 17.37,
+    "pctChange": 3.45,
+    "volume": "57.4万",
+    "turnover": "9.86亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 26226.3,
+    "pb": 10.95,
+    "marketCap": 120
+  },
+  {
+    "symbol": "300044",
+    "name": "ST赛为",
+    "price": 7.79,
+    "pctChange": 3.45,
+    "volume": "35.4万",
+    "turnover": "2.73亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -83.13,
+    "pb": 82.74,
+    "marketCap": 60
+  },
+  {
+    "symbol": "301584",
+    "name": "建发致新",
+    "price": 27.12,
+    "pctChange": 3.39,
+    "volume": "6.6万",
+    "turnover": "1.81亿",
+    "industry": "创业板",
+    "concepts": [
+      "医药商业",
+      "医药流通"
+    ],
+    "pe": 37.28,
+    "pb": 5.5,
+    "marketCap": 114
+  },
+  {
+    "symbol": "300416",
+    "name": "苏试试验",
+    "price": 17.67,
+    "pctChange": 3.33,
+    "volume": "33.2万",
+    "turnover": "5.87亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 34.9,
+    "pb": 3.25,
+    "marketCap": 90
+  },
+  {
+    "symbol": "300709",
+    "name": "精研科技",
+    "price": 39.51,
+    "pctChange": 3.32,
+    "volume": "8.9万",
+    "turnover": "3.50亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 36.58,
+    "pb": 3.2,
+    "marketCap": 74
+  },
+  {
+    "symbol": "301171",
+    "name": "易点天下",
+    "price": 45.93,
+    "pctChange": 3.21,
+    "volume": "47.7万",
+    "turnover": "21.96亿",
+    "industry": "创业板",
+    "concepts": [
+      "广告营销",
+      "营销代理"
+    ],
+    "pe": 137.08,
+    "pb": 5.85,
+    "marketCap": 217
+  },
+  {
+    "symbol": "301603",
+    "name": "乔锋智能",
+    "price": 72.12,
+    "pctChange": 3.19,
+    "volume": "3.3万",
+    "turnover": "2.37亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 25.39,
+    "pb": 3.64,
+    "marketCap": 87
+  },
+  {
+    "symbol": "300407",
+    "name": "凯发电气",
+    "price": 12.96,
+    "pctChange": 3.18,
+    "volume": "9.5万",
+    "turnover": "1.23亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 45.11,
+    "pb": 2.15,
+    "marketCap": 41
+  },
+  {
+    "symbol": "300464",
+    "name": "星徽股份",
+    "price": 7.88,
+    "pctChange": 3.14,
+    "volume": "26.8万",
+    "turnover": "2.10亿",
+    "industry": "创业板",
+    "concepts": [
+      "跨境电商"
+    ],
+    "pe": 1005.01,
+    "pb": 25.98,
+    "marketCap": 36
+  },
+  {
+    "symbol": "301600",
+    "name": "慧翰股份",
+    "price": 102.09,
+    "pctChange": 3.13,
+    "volume": "1.6万",
+    "turnover": "1.61亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 58.9,
+    "pb": 8.48,
+    "marketCap": 107
+  },
+  {
+    "symbol": "301137",
+    "name": "哈焊华通",
+    "price": 47.71,
+    "pctChange": 3.09,
+    "volume": "7.0万",
+    "turnover": "3.32亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 249.34,
+    "pb": 6.33,
+    "marketCap": 87
+  },
+  {
+    "symbol": "300051",
+    "name": "琏升科技",
+    "price": 12.18,
+    "pctChange": 3.05,
+    "volume": "50.1万",
+    "turnover": "6.16亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -37.43,
+    "pb": 28.1,
+    "marketCap": 45
+  },
+  {
+    "symbol": "301218",
+    "name": "华是科技",
+    "price": 34.0,
+    "pctChange": 3.0,
+    "volume": "7.2万",
+    "turnover": "2.49亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -151.37,
+    "pb": 4.22,
+    "marketCap": 39
+  },
+  {
+    "symbol": "301230",
+    "name": "泓博医药",
+    "price": 40.61,
+    "pctChange": 2.99,
+    "volume": "18.9万",
+    "turnover": "7.65亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 122.35,
+    "pb": 5.52,
+    "marketCap": 57
+  },
+  {
+    "symbol": "300337",
+    "name": "银邦股份",
+    "price": 13.58,
+    "pctChange": 2.96,
+    "volume": "85.5万",
+    "turnover": "11.36亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 130.92,
+    "pb": 6.46,
+    "marketCap": 112
+  },
+  {
+    "symbol": "301080",
+    "name": "百普赛斯",
+    "price": 43.78,
+    "pctChange": 2.94,
+    "volume": "5.1万",
+    "turnover": "2.23亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 41.45,
+    "pb": 2.78,
+    "marketCap": 73
+  },
+  {
+    "symbol": "300766",
+    "name": "每日互动",
+    "price": 36.21,
+    "pctChange": 2.93,
+    "volume": "35.3万",
+    "turnover": "12.88亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -197.82,
+    "pb": 9.1,
+    "marketCap": 143
+  },
+  {
+    "symbol": "300683",
+    "name": "海特生物",
+    "price": 43.36,
+    "pctChange": 2.9,
+    "volume": "22.4万",
+    "turnover": "9.86亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": -26.93,
+    "pb": 2.54,
+    "marketCap": 57
+  },
+  {
+    "symbol": "300472",
+    "name": "*ST新元",
+    "price": 8.59,
+    "pctChange": 2.87,
+    "volume": "12.2万",
+    "turnover": "1.05亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -21.7,
+    "pb": -42.97,
+    "marketCap": 24
+  },
+  {
+    "symbol": "300780",
+    "name": "德恩精工",
+    "price": 22.51,
+    "pctChange": 2.83,
+    "volume": "23.7万",
+    "turnover": "5.48亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -76.28,
+    "pb": 3.22,
+    "marketCap": 33
+  },
+  {
+    "symbol": "301393",
+    "name": "昊帆生物",
+    "price": 52.01,
+    "pctChange": 2.79,
+    "volume": "2.6万",
+    "turnover": "1.37亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 42.45,
+    "pb": 2.39,
+    "marketCap": 56
+  },
+  {
+    "symbol": "300058",
+    "name": "蓝色光标",
+    "price": 14.8,
+    "pctChange": 2.78,
+    "volume": "485.9万",
+    "turnover": "72.25亿",
+    "industry": "创业板",
+    "concepts": [
+      "广告营销",
+      "营销代理"
+    ],
+    "pe": 203.65,
+    "pb": 6.7,
+    "marketCap": 531
+  },
+  {
+    "symbol": "300065",
+    "name": "海兰信",
+    "price": 23.64,
+    "pctChange": 2.74,
+    "volume": "85.1万",
+    "turnover": "20.40亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 321.36,
+    "pb": 9.71,
+    "marketCap": 171
+  },
+  {
+    "symbol": "301153",
+    "name": "中科江南",
+    "price": 24.84,
+    "pctChange": 2.73,
+    "volume": "16.9万",
+    "turnover": "4.17亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 86.89,
+    "pb": 4.74,
+    "marketCap": 88
+  },
+  {
+    "symbol": "300374",
+    "name": "中铁装配",
+    "price": 14.61,
+    "pctChange": 2.67,
+    "volume": "8.3万",
+    "turnover": "1.22亿",
+    "industry": "创业板",
+    "concepts": [
+      "基建市政工程"
+    ],
+    "pe": -29.72,
+    "pb": 4.83,
+    "marketCap": 36
+  },
+  {
+    "symbol": "301188",
+    "name": "力诺药包",
+    "price": 17.04,
+    "pctChange": 2.65,
+    "volume": "5.3万",
+    "turnover": "0.89亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 67.2,
+    "pb": 2.69,
+    "marketCap": 46
+  },
+  {
+    "symbol": "300850",
+    "name": "新强联",
+    "price": 44.28,
+    "pctChange": 2.48,
+    "volume": "29.8万",
+    "turnover": "13.24亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 22.41,
+    "pb": 2.62,
+    "marketCap": 183
+  },
+  {
+    "symbol": "300338",
+    "name": "ST开元",
+    "price": 3.78,
+    "pctChange": 2.44,
+    "volume": "8.9万",
+    "turnover": "0.33亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -17.98,
+    "pb": -39.35,
+    "marketCap": 15
+  },
+  {
+    "symbol": "300762",
+    "name": "上海瀚讯",
+    "price": 36.4,
+    "pctChange": 2.39,
+    "volume": "44.8万",
+    "turnover": "16.57亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -355.99,
+    "pb": 9.79,
+    "marketCap": 229
+  },
+  {
+    "symbol": "300699",
+    "name": "光威复材",
+    "price": 34.4,
+    "pctChange": 2.35,
+    "volume": "29.1万",
+    "turnover": "10.13亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 47.4,
+    "pb": 5.03,
+    "marketCap": 286
+  },
+  {
+    "symbol": "300702",
+    "name": "天宇股份",
+    "price": 23.38,
+    "pctChange": 2.32,
+    "volume": "6.7万",
+    "turnover": "1.57亿",
+    "industry": "创业板",
+    "concepts": [
+      "原料药"
+    ],
+    "pe": 27.62,
+    "pb": 2.19,
+    "marketCap": 81
+  },
+  {
+    "symbol": "300162",
+    "name": "雷曼光电",
+    "price": 8.86,
+    "pctChange": 2.31,
+    "volume": "33.6万",
+    "turnover": "2.96亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 314.4,
+    "pb": 4.16,
+    "marketCap": 37
+  },
+  {
+    "symbol": "300885",
+    "name": "海昌新材",
+    "price": 23.87,
+    "pctChange": 2.27,
+    "volume": "13.3万",
+    "turnover": "3.15亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 107.26,
+    "pb": 6.64,
+    "marketCap": 59
+  },
+  {
+    "symbol": "300955",
+    "name": "嘉亨家化",
+    "price": 37.26,
+    "pctChange": 2.19,
+    "volume": "3.2万",
+    "turnover": "1.17亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -95.49,
+    "pb": 4.28,
+    "marketCap": 38
+  },
+  {
+    "symbol": "300347",
+    "name": "泰格医药",
+    "price": 53.83,
+    "pctChange": 2.18,
+    "volume": "21.5万",
+    "turnover": "11.67亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 52.2,
+    "pb": 2.21,
+    "marketCap": 463
+  },
+  {
+    "symbol": "301117",
+    "name": "佳缘科技",
+    "price": 43.52,
+    "pctChange": 2.14,
+    "volume": "8.3万",
+    "turnover": "3.65亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -440.76,
+    "pb": 4.31,
+    "marketCap": 56
+  },
+  {
+    "symbol": "300718",
+    "name": "长盛轴承",
+    "price": 69.79,
+    "pctChange": 2.11,
+    "volume": "6.6万",
+    "turnover": "4.65亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 83.28,
+    "pb": 12.45,
+    "marketCap": 209
+  },
+  {
+    "symbol": "300910",
+    "name": "瑞丰新材",
+    "price": 48.54,
+    "pctChange": 2.04,
+    "volume": "3.3万",
+    "turnover": "1.60亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 19.51,
+    "pb": 3.76,
+    "marketCap": 144
+  },
+  {
+    "symbol": "301299",
+    "name": "卓创资讯",
+    "price": 67.54,
+    "pctChange": 2.01,
+    "volume": "3.9万",
+    "turnover": "2.71亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 62.13,
+    "pb": 6.94,
+    "marketCap": 41
+  },
+  {
+    "symbol": "300839",
+    "name": "博汇股份",
+    "price": 13.77,
+    "pctChange": 2.0,
+    "volume": "17.7万",
+    "turnover": "2.50亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -47.16,
+    "pb": 5.39,
+    "marketCap": 41
+  },
+  {
+    "symbol": "300251",
+    "name": "光线传媒",
+    "price": 15.38,
+    "pctChange": 1.99,
+    "volume": "94.3万",
+    "turnover": "14.58亿",
+    "industry": "创业板",
+    "concepts": [
+      "影视院线"
+    ],
+    "pe": 14.49,
+    "pb": 4.2,
+    "marketCap": 451
+  },
+  {
+    "symbol": "300951",
+    "name": "博硕科技",
+    "price": 36.33,
+    "pctChange": 1.96,
+    "volume": "2.7万",
+    "turnover": "1.00亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 32.08,
+    "pb": 2.64,
+    "marketCap": 62
+  },
+  {
+    "symbol": "301005",
+    "name": "超捷股份",
+    "price": 165.35,
+    "pctChange": 1.95,
+    "volume": "18.8万",
+    "turnover": "31.79亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": 585.68,
+    "pb": 28.86,
+    "marketCap": 222
+  },
+  {
+    "symbol": "300447",
+    "name": "全信股份",
+    "price": 18.94,
+    "pctChange": 1.94,
+    "volume": "18.4万",
+    "turnover": "3.48亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 199.47,
+    "pb": 2.96,
+    "marketCap": 59
+  },
+  {
+    "symbol": "300426",
+    "name": "华智数媒",
+    "price": 7.9,
+    "pctChange": 1.94,
+    "volume": "18.5万",
+    "turnover": "1.48亿",
+    "industry": "创业板",
+    "concepts": [
+      "影视院线"
+    ],
+    "pe": -8.85,
+    "pb": 32.25,
+    "marketCap": 36
+  },
+  {
+    "symbol": "301279",
+    "name": "金道科技",
+    "price": 27.42,
+    "pctChange": 1.9,
+    "volume": "2.8万",
+    "turnover": "0.78亿",
+    "industry": "创业板",
+    "concepts": [
+      "工程机械",
+      "工程机械器件"
+    ],
+    "pe": 55.16,
+    "pb": 2.61,
+    "marketCap": 36
+  },
+  {
+    "symbol": "300669",
+    "name": "沪宁股份",
+    "price": 31.46,
+    "pctChange": 1.88,
+    "volume": "1.9万",
+    "turnover": "0.60亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 309.6,
+    "pb": 6.94,
+    "marketCap": 61
+  },
+  {
+    "symbol": "301317",
+    "name": "鑫磊股份",
+    "price": 51.43,
+    "pctChange": 1.84,
+    "volume": "5.6万",
+    "turnover": "2.89亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 15.98,
+    "pb": 6.01,
+    "marketCap": 81
+  },
+  {
+    "symbol": "301633",
+    "name": "港迪技术",
+    "price": 61.3,
+    "pctChange": 1.76,
+    "volume": "0.6万",
+    "turnover": "0.39亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 59.0,
+    "pb": 3.74,
+    "marketCap": 34
+  },
+  {
+    "symbol": "300041",
+    "name": "回天新材",
+    "price": 10.53,
+    "pctChange": 1.74,
+    "volume": "19.6万",
+    "turnover": "2.07亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 20.46,
+    "pb": 2.04,
+    "marketCap": 59
+  },
+  {
+    "symbol": "300594",
+    "name": "朗进科技",
+    "price": 28.92,
+    "pctChange": 1.72,
+    "volume": "4.5万",
+    "turnover": "1.32亿",
+    "industry": "创业板",
+    "concepts": [
+      "轨交设备Ⅲ"
+    ],
+    "pe": -147.59,
+    "pb": 3.22,
+    "marketCap": 27
+  },
+  {
+    "symbol": "300789",
+    "name": "唐源电气",
+    "price": 21.63,
+    "pctChange": 1.64,
+    "volume": "4.1万",
+    "turnover": "0.90亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 59.69,
+    "pb": 2.92,
+    "marketCap": 31
+  },
+  {
+    "symbol": "300376",
+    "name": "易事特",
+    "price": 6.23,
+    "pctChange": 1.63,
+    "volume": "31.2万",
+    "turnover": "1.96亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 115.4,
+    "pb": 2.17,
+    "marketCap": 145
+  },
+  {
+    "symbol": "300521",
+    "name": "爱司凯",
+    "price": 26.4,
+    "pctChange": 1.62,
+    "volume": "5.0万",
+    "turnover": "1.34亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -149.39,
+    "pb": 7.48,
+    "marketCap": 40
+  },
+  {
+    "symbol": "300995",
+    "name": "奇德新材",
+    "price": 34.28,
+    "pctChange": 1.6,
+    "volume": "2.4万",
+    "turnover": "0.81亿",
+    "industry": "创业板",
+    "concepts": [
+      "改性塑料"
+    ],
+    "pe": 146.94,
+    "pb": 4.55,
+    "marketCap": 29
+  },
+  {
+    "symbol": "301528",
+    "name": "多浦乐",
+    "price": 61.99,
+    "pctChange": 1.57,
+    "volume": "0.7万",
+    "turnover": "0.43亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 79.4,
+    "pb": 2.51,
+    "marketCap": 38
+  },
+  {
+    "symbol": "300843",
+    "name": "胜蓝股份",
+    "price": 53.25,
+    "pctChange": 1.53,
+    "volume": "6.6万",
+    "turnover": "3.56亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 63.56,
+    "pb": 5.5,
+    "marketCap": 87
+  },
+  {
+    "symbol": "300946",
+    "name": "恒而达",
+    "price": 45.86,
+    "pctChange": 1.51,
+    "volume": "1.3万",
+    "turnover": "0.61亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 121.8,
+    "pb": 5.92,
+    "marketCap": 72
+  },
+  {
+    "symbol": "300572",
+    "name": "安车检测",
+    "price": 27.64,
+    "pctChange": 1.43,
+    "volume": "7.8万",
+    "turnover": "2.17亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -224.02,
+    "pb": 3.57,
+    "marketCap": 63
+  },
+  {
+    "symbol": "300461",
+    "name": "田中精机",
+    "price": 59.13,
+    "pctChange": 1.42,
+    "volume": "13.2万",
+    "turnover": "7.84亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 1475.28,
+    "pb": 17.46,
+    "marketCap": 93
+  },
+  {
+    "symbol": "300877",
+    "name": "金春股份",
+    "price": 27.35,
+    "pctChange": 1.41,
+    "volume": "4.8万",
+    "turnover": "1.34亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 33.33,
+    "pb": 1.97,
+    "marketCap": 33
+  },
+  {
+    "symbol": "300976",
+    "name": "达瑞电子",
+    "price": 54.35,
+    "pctChange": 1.4,
+    "volume": "1.5万",
+    "turnover": "0.79亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 23.66,
+    "pb": 2.05,
+    "marketCap": 73
+  },
+  {
+    "symbol": "300633",
+    "name": "开立医疗",
+    "price": 25.56,
+    "pctChange": 1.39,
+    "volume": "3.0万",
+    "turnover": "0.77亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 247.53,
+    "pb": 3.55,
+    "marketCap": 111
+  },
+  {
+    "symbol": "301380",
+    "name": "挖金客",
+    "price": 32.61,
+    "pctChange": 1.34,
+    "volume": "1.9万",
+    "turnover": "0.63亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 92.81,
+    "pb": 4.54,
+    "marketCap": 33
+  },
+  {
+    "symbol": "300488",
+    "name": "恒锋工具",
+    "price": 27.93,
+    "pctChange": 1.31,
+    "volume": "6.1万",
+    "turnover": "1.72亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 35.08,
+    "pb": 2.96,
+    "marketCap": 53
+  },
+  {
+    "symbol": "301577",
+    "name": "美信科技",
+    "price": 63.1,
+    "pctChange": 1.28,
+    "volume": "1.4万",
+    "turnover": "0.87亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 187.13,
+    "pb": 3.73,
+    "marketCap": 28
+  },
+  {
+    "symbol": "301636",
+    "name": "泽润新能",
+    "price": 66.52,
+    "pctChange": 1.26,
+    "volume": "3.7万",
+    "turnover": "2.50亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 60.17,
+    "pb": 3.94,
+    "marketCap": 42
+  },
+  {
+    "symbol": "301015",
+    "name": "百洋医药",
+    "price": 24.08,
+    "pctChange": 1.26,
+    "volume": "8.4万",
+    "turnover": "2.00亿",
+    "industry": "创业板",
+    "concepts": [
+      "医药商业",
+      "医药流通"
+    ],
+    "pe": 19.92,
+    "pb": 5.31,
+    "marketCap": 127
+  },
+  {
+    "symbol": "300932",
+    "name": "三友联众",
+    "price": 13.09,
+    "pctChange": 1.16,
+    "volume": "14.0万",
+    "turnover": "1.85亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 57.69,
+    "pb": 2.37,
+    "marketCap": 42
+  },
+  {
+    "symbol": "300900",
+    "name": "广联航空",
+    "price": 38.6,
+    "pctChange": 1.15,
+    "volume": "62.6万",
+    "turnover": "24.49亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 545.62,
+    "pb": 8.89,
+    "marketCap": 127
+  },
+  {
+    "symbol": "301367",
+    "name": "瑞迈特",
+    "price": 67.39,
+    "pctChange": 1.14,
+    "volume": "1.3万",
+    "turnover": "0.88亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 25.16,
+    "pb": 2.03,
+    "marketCap": 60
+  },
+  {
+    "symbol": "300326",
+    "name": "ST凯利",
+    "price": 6.27,
+    "pctChange": 1.13,
+    "volume": "11.2万",
+    "turnover": "0.70亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 47.32,
+    "pb": 1.61,
+    "marketCap": 45
+  },
+  {
+    "symbol": "300636",
+    "name": "同和药业",
+    "price": 8.15,
+    "pctChange": 1.12,
+    "volume": "10.0万",
+    "turnover": "0.81亿",
+    "industry": "创业板",
+    "concepts": [
+      "原料药"
+    ],
+    "pe": 30.68,
+    "pb": 1.44,
+    "marketCap": 34
+  },
+  {
+    "symbol": "300692",
+    "name": "中赋科技",
+    "price": 8.25,
+    "pctChange": 1.1,
+    "volume": "25.4万",
+    "turnover": "2.12亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 34.27,
+    "pb": 1.58,
+    "marketCap": 39
+  },
+  {
+    "symbol": "300307",
+    "name": "慈星股份",
+    "price": 6.52,
+    "pctChange": 1.09,
+    "volume": "11.2万",
+    "turnover": "0.73亿",
+    "industry": "创业板",
+    "concepts": [
+      "纺织服装设备"
+    ],
+    "pe": 53.6,
+    "pb": 1.63,
+    "marketCap": 52
+  },
+  {
+    "symbol": "300404",
+    "name": "博济医药",
+    "price": 9.92,
+    "pctChange": 1.02,
+    "volume": "13.4万",
+    "turnover": "1.35亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 131.0,
+    "pb": 3.75,
+    "marketCap": 38
+  },
+  {
+    "symbol": "301339",
+    "name": "通行宝",
+    "price": 13.07,
+    "pctChange": 1.0,
+    "volume": "4.7万",
+    "turnover": "0.62亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 34.32,
+    "pb": 2.76,
+    "marketCap": 76
+  },
+  {
+    "symbol": "300722",
+    "name": "新余国科",
+    "price": 29.24,
+    "pctChange": 1.0,
+    "volume": "3.2万",
+    "turnover": "0.93亿",
+    "industry": "创业板",
+    "concepts": [
+      "航天装备Ⅱ",
+      "航天装备Ⅲ"
+    ],
+    "pe": 125.96,
+    "pb": 12.74,
+    "marketCap": 81
+  },
+  {
+    "symbol": "300136",
+    "name": "信维通信",
+    "price": 64.96,
+    "pctChange": 1.0,
+    "volume": "117.1万",
+    "turnover": "77.64亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 96.9,
+    "pb": 8.19,
+    "marketCap": 629
+  },
+  {
+    "symbol": "300809",
+    "name": "华辰装备",
+    "price": 32.94,
+    "pctChange": 0.98,
+    "volume": "3.9万",
+    "turnover": "1.29亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 144.62,
+    "pb": 5.07,
+    "marketCap": 84
+  },
+  {
+    "symbol": "300022",
+    "name": "吉峰科技",
+    "price": 9.35,
+    "pctChange": 0.97,
+    "volume": "31.8万",
+    "turnover": "2.97亿",
+    "industry": "创业板",
+    "concepts": [
+      "专业连锁Ⅱ",
+      "专业连锁Ⅲ"
+    ],
+    "pe": -473.8,
+    "pb": 8.69,
+    "marketCap": 46
+  },
+  {
+    "symbol": "300851",
+    "name": "交大思诺",
+    "price": 29.47,
+    "pctChange": 0.96,
+    "volume": "2.7万",
+    "turnover": "0.81亿",
+    "industry": "创业板",
+    "concepts": [
+      "轨交设备Ⅲ"
+    ],
+    "pe": 82.56,
+    "pb": 2.0,
+    "marketCap": 26
+  },
+  {
+    "symbol": "300427",
+    "name": "红相股份",
+    "price": 12.32,
+    "pctChange": 0.9,
+    "volume": "47.1万",
+    "turnover": "5.88亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -349.75,
+    "pb": 5.22,
+    "marketCap": 63
+  },
+  {
+    "symbol": "301345",
+    "name": "涛涛车业",
+    "price": 217.0,
+    "pctChange": 0.88,
+    "volume": "1.3万",
+    "turnover": "2.87亿",
+    "industry": "创业板",
+    "concepts": [
+      "摩托车",
+      "汽车"
+    ],
+    "pe": 28.99,
+    "pb": 6.54,
+    "marketCap": 237
+  },
+  {
+    "symbol": "300103",
+    "name": "达刚控股",
+    "price": 7.02,
+    "pctChange": 0.86,
+    "volume": "7.7万",
+    "turnover": "0.54亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -65.59,
+    "pb": 4.58,
+    "marketCap": 22
+  },
+  {
+    "symbol": "300627",
+    "name": "华测导航",
+    "price": 33.26,
+    "pctChange": 0.85,
+    "volume": "8.3万",
+    "turnover": "2.78亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 38.44,
+    "pb": 6.21,
+    "marketCap": 262
+  },
+  {
+    "symbol": "301215",
+    "name": "中汽股份",
+    "price": 6.06,
+    "pctChange": 0.83,
+    "volume": "12.2万",
+    "turnover": "0.74亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车",
+      "汽车服务",
+      "汽车综合服务"
+    ],
+    "pe": 37.62,
+    "pb": 2.75,
+    "marketCap": 80
+  },
+  {
+    "symbol": "300737",
+    "name": "科顺股份",
+    "price": 6.21,
+    "pctChange": 0.81,
+    "volume": "20.0万",
+    "turnover": "1.25亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 257.36,
+    "pb": 1.53,
+    "marketCap": 69
+  },
+  {
+    "symbol": "300668",
+    "name": "杰恩设计",
+    "price": 37.35,
+    "pctChange": 0.78,
+    "volume": "9.4万",
+    "turnover": "3.50亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 190.78,
+    "pb": 5.74,
+    "marketCap": 45
+  },
+  {
+    "symbol": "300653",
+    "name": "正海生物",
+    "price": 19.5,
+    "pctChange": 0.78,
+    "volume": "2.3万",
+    "turnover": "0.46亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 42.59,
+    "pb": 3.95,
+    "marketCap": 35
+  },
+  {
+    "symbol": "301017",
+    "name": "漱玉平民",
+    "price": 14.43,
+    "pctChange": 0.77,
+    "volume": "13.0万",
+    "turnover": "1.91亿",
+    "industry": "创业板",
+    "concepts": [
+      "医药商业",
+      "线下药店"
+    ],
+    "pe": 40.22,
+    "pb": 2.95,
+    "marketCap": 59
+  },
+  {
+    "symbol": "301515",
+    "name": "港通医疗",
+    "price": 22.77,
+    "pctChange": 0.75,
+    "volume": "2.1万",
+    "turnover": "0.48亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -167.29,
+    "pb": 1.87,
+    "marketCap": 23
+  },
+  {
+    "symbol": "301030",
+    "name": "仕净科技",
+    "price": 10.81,
+    "pctChange": 0.75,
+    "volume": "12.3万",
+    "turnover": "1.35亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -7.28,
+    "pb": 2.6,
+    "marketCap": 22
+  },
+  {
+    "symbol": "300966",
+    "name": "共同药业",
+    "price": 21.08,
+    "pctChange": 0.72,
+    "volume": "2.4万",
+    "turnover": "0.50亿",
+    "industry": "创业板",
+    "concepts": [
+      "原料药"
+    ],
+    "pe": -56.19,
+    "pb": 3.14,
+    "marketCap": 24
+  },
+  {
+    "symbol": "301125",
+    "name": "腾亚精工",
+    "price": 19.32,
+    "pctChange": 0.68,
+    "volume": "4.1万",
+    "turnover": "0.82亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 1523.92,
+    "pb": 4.53,
+    "marketCap": 27
+  },
+  {
+    "symbol": "300228",
+    "name": "富瑞特装",
+    "price": 9.28,
+    "pctChange": 0.65,
+    "volume": "28.0万",
+    "turnover": "2.60亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 24.03,
+    "pb": 2.3,
+    "marketCap": 55
+  },
+  {
+    "symbol": "300667",
+    "name": "必创科技",
+    "price": 15.63,
+    "pctChange": 0.64,
+    "volume": "8.0万",
+    "turnover": "1.26亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -200.34,
+    "pb": 2.82,
+    "marketCap": 32
+  },
+  {
+    "symbol": "300235",
+    "name": "方直科技",
+    "price": 12.62,
+    "pctChange": 0.64,
+    "volume": "8.1万",
+    "turnover": "1.04亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 338.42,
+    "pb": 4.56,
+    "marketCap": 32
+  },
+  {
+    "symbol": "300217",
+    "name": "东方电热",
+    "price": 5.29,
+    "pctChange": 0.57,
+    "volume": "61.9万",
+    "turnover": "3.22亿",
+    "industry": "创业板",
+    "concepts": [
+      "家电零部件Ⅱ",
+      "家电零部件Ⅲ"
+    ],
+    "pe": 38.98,
+    "pb": 1.86,
+    "marketCap": 78
+  },
+  {
+    "symbol": "300540",
+    "name": "蜀道装备",
+    "price": 19.79,
+    "pctChange": 0.56,
+    "volume": "6.9万",
+    "turnover": "1.37亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 75.61,
+    "pb": 4.01,
+    "marketCap": 45
+  },
+  {
+    "symbol": "300628",
+    "name": "亿联网络",
+    "price": 32.74,
+    "pctChange": 0.55,
+    "volume": "6.0万",
+    "turnover": "1.98亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 15.95,
+    "pb": 4.45,
+    "marketCap": 415
+  },
+  {
+    "symbol": "301252",
+    "name": "同星科技",
+    "price": 36.42,
+    "pctChange": 0.55,
+    "volume": "4.9万",
+    "turnover": "1.81亿",
+    "industry": "创业板",
+    "concepts": [
+      "家电零部件Ⅱ",
+      "家电零部件Ⅲ"
+    ],
+    "pe": 52.19,
+    "pb": 4.73,
+    "marketCap": 62
+  },
+  {
+    "symbol": "301007",
+    "name": "德迈仕",
+    "price": 33.61,
+    "pctChange": 0.54,
+    "volume": "2.1万",
+    "turnover": "0.70亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": 100.87,
+    "pb": 7.52,
+    "marketCap": 52
+  },
+  {
+    "symbol": "300678",
+    "name": "中科信息",
+    "price": 28.31,
+    "pctChange": 0.53,
+    "volume": "5.1万",
+    "turnover": "1.45亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 586.28,
+    "pb": 9.8,
+    "marketCap": 84
+  },
+  {
+    "symbol": "300009",
+    "name": "安科生物",
+    "price": 9.45,
+    "pctChange": 0.53,
+    "volume": "26.0万",
+    "turnover": "2.48亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 21.48,
+    "pb": 3.47,
+    "marketCap": 158
+  },
+  {
+    "symbol": "300382",
+    "name": "斯莱克",
+    "price": 11.42,
+    "pctChange": 0.53,
+    "volume": "16.6万",
+    "turnover": "1.93亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 379.53,
+    "pb": 3.22,
+    "marketCap": 74
+  },
+  {
+    "symbol": "300923",
+    "name": "研奥股份",
+    "price": 27.71,
+    "pctChange": 0.51,
+    "volume": "1.9万",
+    "turnover": "0.53亿",
+    "industry": "创业板",
+    "concepts": [
+      "轨交设备Ⅲ"
+    ],
+    "pe": 63.51,
+    "pb": 1.92,
+    "marketCap": 22
+  },
+  {
+    "symbol": "300363",
+    "name": "博腾股份",
+    "price": 21.0,
+    "pctChange": 0.48,
+    "volume": "15.1万",
+    "turnover": "3.23亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 107.1,
+    "pb": 2.15,
+    "marketCap": 114
+  },
+  {
+    "symbol": "300662",
+    "name": "科锐国际",
+    "price": 23.4,
+    "pctChange": 0.47,
+    "volume": "3.7万",
+    "turnover": "0.86亿",
+    "industry": "创业板",
+    "concepts": [
+      "人力资源服务"
+    ],
+    "pe": 15.14,
+    "pb": 2.03,
+    "marketCap": 46
+  },
+  {
+    "symbol": "300322",
+    "name": "硕贝德",
+    "price": 23.76,
+    "pctChange": 0.47,
+    "volume": "16.6万",
+    "turnover": "4.00亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 168.98,
+    "pb": 10.83,
+    "marketCap": 109
+  },
+  {
+    "symbol": "300860",
+    "name": "锋尚文化",
+    "price": 24.02,
+    "pctChange": 0.46,
+    "volume": "2.7万",
+    "turnover": "0.66亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 393.08,
+    "pb": 1.46,
+    "marketCap": 45
+  },
+  {
+    "symbol": "300446",
+    "name": "航天智造",
+    "price": 20.15,
+    "pctChange": 0.45,
+    "volume": "14.7万",
+    "turnover": "2.99亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": 19.33,
+    "pb": 2.89,
+    "marketCap": 170
+  },
+  {
+    "symbol": "300997",
+    "name": "欢乐家",
+    "price": 20.33,
+    "pctChange": 0.44,
+    "volume": "9.0万",
+    "turnover": "1.82亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 201.33,
+    "pb": 8.51,
+    "marketCap": 89
+  },
+  {
+    "symbol": "301112",
+    "name": "信邦智能",
+    "price": 32.5,
+    "pctChange": 0.43,
+    "volume": "0.8万",
+    "turnover": "0.26亿",
+    "industry": "创业板",
+    "concepts": [
+      "机器人"
+    ],
+    "pe": 747.86,
+    "pb": 2.96,
+    "marketCap": 36
+  },
+  {
+    "symbol": "300961",
+    "name": "深水海纳",
+    "price": 14.44,
+    "pctChange": 0.42,
+    "volume": "18.7万",
+    "turnover": "2.74亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -79.6,
+    "pb": 3.49,
+    "marketCap": 26
+  },
+  {
+    "symbol": "300745",
+    "name": "欣锐科技",
+    "price": 27.35,
+    "pctChange": 0.4,
+    "volume": "4.9万",
+    "turnover": "1.33亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": -55.22,
+    "pb": 2.04,
+    "marketCap": 46
+  },
+  {
+    "symbol": "301091",
+    "name": "深城交",
+    "price": 20.96,
+    "pctChange": 0.38,
+    "volume": "4.0万",
+    "turnover": "0.85亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 192.46,
+    "pb": 4.67,
+    "marketCap": 111
+  },
+  {
+    "symbol": "300096",
+    "name": "ST易联众",
+    "price": 7.87,
+    "pctChange": 0.38,
+    "volume": "3.4万",
+    "turnover": "0.27亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 66.89,
+    "pb": 9.65,
+    "marketCap": 34
+  },
+  {
+    "symbol": "300440",
+    "name": "运达科技",
+    "price": 15.85,
+    "pctChange": 0.38,
+    "volume": "9.7万",
+    "turnover": "1.55亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 130.4,
+    "pb": 4.32,
+    "marketCap": 70
+  },
+  {
+    "symbol": "301501",
+    "name": "恒鑫生活",
+    "price": 37.1,
+    "pctChange": 0.38,
+    "volume": "1.3万",
+    "turnover": "0.48亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 22.26,
+    "pb": 2.66,
+    "marketCap": 55
+  },
+  {
+    "symbol": "300785",
+    "name": "值得买",
+    "price": 48.78,
+    "pctChange": 0.37,
+    "volume": "11.2万",
+    "turnover": "5.55亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 540.96,
+    "pb": 5.14,
+    "marketCap": 97
+  },
+  {
+    "symbol": "300635",
+    "name": "中达安",
+    "price": 13.74,
+    "pctChange": 0.37,
+    "volume": "5.8万",
+    "turnover": "0.80亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 1472.06,
+    "pb": 5.1,
+    "marketCap": 19
+  },
+  {
+    "symbol": "300099",
+    "name": "尤洛卡",
+    "price": 8.36,
+    "pctChange": 0.36,
+    "volume": "26.8万",
+    "turnover": "2.27亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 33.64,
+    "pb": 2.58,
+    "marketCap": 62
+  },
+  {
+    "symbol": "301368",
+    "name": "丰立智能",
+    "price": 52.2,
+    "pctChange": 0.33,
+    "volume": "1.9万",
+    "turnover": "1.02亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 4530.65,
+    "pb": 6.46,
+    "marketCap": 63
+  },
+  {
+    "symbol": "300188",
+    "name": "国投智能",
+    "price": 12.3,
+    "pctChange": 0.33,
+    "volume": "8.2万",
+    "turnover": "1.02亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -21.69,
+    "pb": 3.42,
+    "marketCap": 106
+  },
+  {
+    "symbol": "300010",
+    "name": "豆神教育",
+    "price": 6.18,
+    "pctChange": 0.32,
+    "volume": "44.1万",
+    "turnover": "2.76亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 104.38,
+    "pb": 7.16,
+    "marketCap": 128
+  },
+  {
+    "symbol": "300234",
+    "name": "开尔新材",
+    "price": 6.19,
+    "pctChange": 0.32,
+    "volume": "18.3万",
+    "turnover": "1.14亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 113.42,
+    "pb": 2.7,
+    "marketCap": 31
+  },
+  {
+    "symbol": "300305",
+    "name": "裕兴股份",
+    "price": 6.27,
+    "pctChange": 0.32,
+    "volume": "7.6万",
+    "turnover": "0.48亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -9.33,
+    "pb": 1.15,
+    "marketCap": 24
+  },
+  {
+    "symbol": "300284",
+    "name": "苏交科",
+    "price": 6.52,
+    "pctChange": 0.31,
+    "volume": "7.8万",
+    "turnover": "0.52亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 78.13,
+    "pb": 0.98,
+    "marketCap": 82
+  },
+  {
+    "symbol": "301050",
+    "name": "雷电微力",
+    "price": 46.0,
+    "pctChange": 0.26,
+    "volume": "8.3万",
+    "turnover": "3.89亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 54.42,
+    "pb": 3.64,
+    "marketCap": 114
+  },
+  {
+    "symbol": "300835",
+    "name": "龙磁科技",
+    "price": 78.89,
+    "pctChange": 0.24,
+    "volume": "3.8万",
+    "turnover": "3.04亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 52.92,
+    "pb": 7.88,
+    "marketCap": 94
+  },
+  {
+    "symbol": "300882",
+    "name": "万胜智能",
+    "price": 21.08,
+    "pctChange": 0.24,
+    "volume": "5.2万",
+    "turnover": "1.11亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 27.56,
+    "pb": 4.6,
+    "marketCap": 60
+  },
+  {
+    "symbol": "301186",
+    "name": "超达装备",
+    "price": 56.2,
+    "pctChange": 0.21,
+    "volume": "4.0万",
+    "turnover": "2.28亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": 30.86,
+    "pb": 2.84,
+    "marketCap": 45
+  },
+  {
+    "symbol": "300506",
+    "name": "ST名家汇",
+    "price": 4.75,
+    "pctChange": 0.21,
+    "volume": "7.4万",
+    "turnover": "0.36亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -44.76,
+    "pb": -194.15,
+    "marketCap": 68
+  },
+  {
+    "symbol": "300285",
+    "name": "国瓷材料",
+    "price": 30.7,
+    "pctChange": 0.2,
+    "volume": "36.5万",
+    "turnover": "11.43亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 46.9,
+    "pb": 4.37,
+    "marketCap": 306
+  },
+  {
+    "symbol": "300841",
+    "name": "康华生物",
+    "price": 56.88,
+    "pctChange": 0.19,
+    "volume": "1.2万",
+    "turnover": "0.70亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 29.31,
+    "pb": 2.11,
+    "marketCap": 74
+  },
+  {
+    "symbol": "300351",
+    "name": "永贵电器",
+    "price": 15.66,
+    "pctChange": 0.19,
+    "volume": "11.7万",
+    "turnover": "1.87亿",
+    "industry": "创业板",
+    "concepts": [
+      "轨交设备Ⅲ"
+    ],
+    "pe": 64.15,
+    "pb": 2.44,
+    "marketCap": 61
+  },
+  {
+    "symbol": "300150",
+    "name": "世纪瑞尔",
+    "price": 5.32,
+    "pctChange": 0.19,
+    "volume": "15.3万",
+    "turnover": "0.82亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 56.07,
+    "pb": 1.98,
+    "marketCap": 31
+  },
+  {
+    "symbol": "300590",
+    "name": "移为通信",
+    "price": 11.42,
+    "pctChange": 0.18,
+    "volume": "5.2万",
+    "turnover": "0.60亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 69.9,
+    "pb": 2.86,
+    "marketCap": 53
+  },
+  {
+    "symbol": "300403",
+    "name": "汉宇集团",
+    "price": 11.58,
+    "pctChange": 0.17,
+    "volume": "6.7万",
+    "turnover": "0.79亿",
+    "industry": "创业板",
+    "concepts": [
+      "家电零部件Ⅱ",
+      "家电零部件Ⅲ"
+    ],
+    "pe": 31.04,
+    "pb": 3.27,
+    "marketCap": 70
+  },
+  {
+    "symbol": "300396",
+    "name": "迪瑞医疗",
+    "price": 11.67,
+    "pctChange": 0.17,
+    "volume": "2.5万",
+    "turnover": "0.29亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -27.35,
+    "pb": 1.68,
+    "marketCap": 32
+  },
+  {
+    "symbol": "301159",
+    "name": "三维天地",
+    "price": 42.2,
+    "pctChange": 0.17,
+    "volume": "3.2万",
+    "turnover": "1.36亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -32.55,
+    "pb": 5.6,
+    "marketCap": 33
+  },
+  {
+    "symbol": "301232",
+    "name": "飞沃科技",
+    "price": 171.3,
+    "pctChange": 0.15,
+    "volume": "8.4万",
+    "turnover": "14.76亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 209.95,
+    "pb": 9.12,
+    "marketCap": 129
+  },
+  {
+    "symbol": "300276",
+    "name": "三丰智能",
+    "price": 6.92,
+    "pctChange": 0.14,
+    "volume": "16.9万",
+    "turnover": "1.18亿",
+    "industry": "创业板",
+    "concepts": [
+      "机器人"
+    ],
+    "pe": 191.88,
+    "pb": 4.89,
+    "marketCap": 97
+  },
+  {
+    "symbol": "300354",
+    "name": "东华测试",
+    "price": 34.62,
+    "pctChange": 0.14,
+    "volume": "2.3万",
+    "turnover": "0.81亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 35.47,
+    "pb": 5.82,
+    "marketCap": 48
+  },
+  {
+    "symbol": "300545",
+    "name": "联得装备",
+    "price": 30.35,
+    "pctChange": 0.13,
+    "volume": "9.1万",
+    "turnover": "2.77亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 43.7,
+    "pb": 2.64,
+    "marketCap": 56
+  },
+  {
+    "symbol": "300083",
+    "name": "创世纪",
+    "price": 7.62,
+    "pctChange": 0.13,
+    "volume": "22.8万",
+    "turnover": "1.74亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 88.56,
+    "pb": 2.43,
+    "marketCap": 127
+  },
+  {
+    "symbol": "300144",
+    "name": "宋城演艺",
+    "price": 7.78,
+    "pctChange": 0.13,
+    "volume": "19.1万",
+    "turnover": "1.50亿",
+    "industry": "创业板",
+    "concepts": [
+      "人工景区"
+    ],
+    "pe": 20.32,
+    "pb": 2.44,
+    "marketCap": 204
+  },
+  {
+    "symbol": "301520",
+    "name": "万邦医药",
+    "price": 42.05,
+    "pctChange": 0.12,
+    "volume": "0.9万",
+    "turnover": "0.40亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 63.5,
+    "pb": 1.85,
+    "marketCap": 28
+  },
+  {
+    "symbol": "300977",
+    "name": "深圳瑞捷",
+    "price": 18.82,
+    "pctChange": 0.11,
+    "volume": "2.1万",
+    "turnover": "0.39亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 79.2,
+    "pb": 2.07,
+    "marketCap": 29
+  },
+  {
+    "symbol": "301119",
+    "name": "正强股份",
+    "price": 41.03,
+    "pctChange": 0.1,
+    "volume": "1.9万",
+    "turnover": "0.80亿",
+    "industry": "创业板",
+    "concepts": [
+      "汽车"
+    ],
+    "pe": 35.17,
+    "pb": 4.18,
+    "marketCap": 43
+  },
+  {
+    "symbol": "300489",
+    "name": "光智科技",
+    "price": 47.94,
+    "pctChange": 0.08,
+    "volume": "8.3万",
+    "turnover": "4.03亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -198.8,
+    "pb": 10.43,
+    "marketCap": 66
+  },
+  {
+    "symbol": "301178",
+    "name": "天亿马",
+    "price": 49.12,
+    "pctChange": 0.08,
+    "volume": "3.1万",
+    "turnover": "1.57亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 438.45,
+    "pb": 4.23,
+    "marketCap": 33
+  },
+  {
+    "symbol": "300161",
+    "name": "华中数控",
+    "price": 27.53,
+    "pctChange": 0.07,
+    "volume": "2.4万",
+    "turnover": "0.66亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": -68.95,
+    "pb": 3.56,
+    "marketCap": 55
+  },
+  {
+    "symbol": "301522",
+    "name": "上大股份",
+    "price": 31.18,
+    "pctChange": 0.06,
+    "volume": "5.2万",
+    "turnover": "1.64亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 113.56,
+    "pb": 6.13,
+    "marketCap": 116
+  },
+  {
+    "symbol": "300833",
+    "name": "浩洋股份",
+    "price": 32.6,
+    "pctChange": 0.06,
+    "volume": "1.3万",
+    "turnover": "0.42亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 23.04,
+    "pb": 1.7,
+    "marketCap": 41
+  },
+  {
+    "symbol": "300725",
+    "name": "药石科技",
+    "price": 36.25,
+    "pctChange": 0.06,
+    "volume": "7.3万",
+    "turnover": "2.68亿",
+    "industry": "创业板",
+    "concepts": [
+      "医疗服务"
+    ],
+    "pe": 56.06,
+    "pb": 1.19,
+    "marketCap": 85
+  },
+  {
+    "symbol": "301029",
+    "name": "怡合达",
+    "price": 22.83,
+    "pctChange": 0.04,
+    "volume": "6.6万",
+    "turnover": "1.52亿",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 26.02,
+    "pb": 3.4,
+    "marketCap": 145
+  },
+  {
+    "symbol": "301696",
+    "name": "三瑞智能",
+    "price": 0,
+    "pctChange": 0,
+    "volume": "0",
+    "turnover": "0",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 21.09,
+    "pb": 7.66,
+    "marketCap": 89
+  },
+  {
+    "symbol": "301683",
+    "name": "慧谷新材",
+    "price": 0,
+    "pctChange": 0,
+    "volume": "0",
+    "turnover": "0",
+    "industry": "创业板",
+    "concepts": [
+      "成长",
+      "热门"
+    ],
+    "pe": 23.92,
+    "pb": 3.12,
+    "marketCap": 49
+  }
+]

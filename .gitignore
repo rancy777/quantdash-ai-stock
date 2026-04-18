@@ -1,0 +1,64 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+.codex
+*.local
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+venv
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local databases and auth/session state
+data/auth.db
+data/system/auth.db
+*.sqlite
+*.sqlite3
+
+# Downloaded third-party report content
+data/research_reports/auto/
+
+# Large local datasets and personal research artifacts
+data/klines/
+data/markets/*/klines/
+data/single_day_snapshots/
+data/markets/*/single_day_snapshots/
+data/news_cls.json
+data/news_newsfilter.json
+data/expert_holding_snapshots.json
+data/research_reports_manifest.json
+草原高手数据/
+
+# Local temp/runtime artifacts
+.runtime/
+*.pid
+last_cls_ts.txt
+__stock_report_page.html
+temp_index.js
+temp_mstats.html
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

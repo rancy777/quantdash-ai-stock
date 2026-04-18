@@ -1,0 +1,271 @@
+{
+  "dates": [
+    "04-13",
+    "04-10",
+    "04-09",
+    "04-08",
+    "04-07"
+  ],
+  "ranks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "data": {
+    "04-13": {
+      "1": {
+        "code": "BK1051",
+        "name": "昨日连板_含一字",
+        "pctChange": 3.71,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1173",
+        "name": "锂矿概念",
+        "pctChange": 3.7,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1630",
+        "name": "昨日首板",
+        "pctChange": 3.06,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1050",
+        "name": "昨日涨停_含一字",
+        "pctChange": 2.83,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK0855",
+        "name": "纳米银",
+        "pctChange": 2.6,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK0816",
+        "name": "昨日连板",
+        "pctChange": 2.47,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1645",
+        "name": "昨日打二板以上表现",
+        "pctChange": 2.44,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK0815",
+        "name": "昨日涨停",
+        "pctChange": 2.39,
+        "rank": 8
+      }
+    },
+    "04-10": {
+      "1": {
+        "code": "BK0816",
+        "name": "昨日连板",
+        "pctChange": 4.09,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1051",
+        "name": "昨日连板_含一字",
+        "pctChange": 4.05,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK0855",
+        "name": "纳米银",
+        "pctChange": 3.57,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK0951",
+        "name": "刀片电池",
+        "pctChange": 3.51,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1173",
+        "name": "锂矿概念",
+        "pctChange": 2.51,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1050",
+        "name": "昨日涨停_含一字",
+        "pctChange": 1.92,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK0674",
+        "name": "蓝宝石",
+        "pctChange": 1.65,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1630",
+        "name": "昨日首板",
+        "pctChange": 1.46,
+        "rank": 8
+      }
+    },
+    "04-09": {
+      "1": {
+        "code": "BK1128",
+        "name": "CPO概念",
+        "pctChange": 2.35,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1088",
+        "name": "F5G概念",
+        "pctChange": 2.31,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1051",
+        "name": "昨日连板_含一字",
+        "pctChange": 1.92,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1630",
+        "name": "昨日首板",
+        "pctChange": 1.82,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1050",
+        "name": "昨日涨停_含一字",
+        "pctChange": 1.77,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK0815",
+        "name": "昨日涨停",
+        "pctChange": 1.63,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1637",
+        "name": "东方财富热股",
+        "pctChange": 1.56,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1136",
+        "name": "光通信模块",
+        "pctChange": 1.52,
+        "rank": 8
+      }
+    },
+    "04-08": {
+      "1": {
+        "code": "BK0855",
+        "name": "纳米银",
+        "pctChange": 7.37,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1128",
+        "name": "CPO概念",
+        "pctChange": 7.12,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK0885",
+        "name": "VPN",
+        "pctChange": 6.55,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK0877",
+        "name": "PCB",
+        "pctChange": 6.4,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK0674",
+        "name": "蓝宝石",
+        "pctChange": 6.0,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1088",
+        "name": "F5G概念",
+        "pctChange": 5.93,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1136",
+        "name": "光通信模块",
+        "pctChange": 5.92,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK0890",
+        "name": "MLCC",
+        "pctChange": 5.8,
+        "rank": 8
+      }
+    },
+    "04-07": {
+      "1": {
+        "code": "BK1051",
+        "name": "昨日连板_含一字",
+        "pctChange": 6.25,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1645",
+        "name": "昨日打二板以上表现",
+        "pctChange": 5.88,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK0816",
+        "name": "昨日连板",
+        "pctChange": 5.59,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK0887",
+        "name": "鸡肉概念",
+        "pctChange": 3.36,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK0882",
+        "name": "猪肉概念",
+        "pctChange": 2.94,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK0877",
+        "name": "PCB",
+        "pctChange": 2.26,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK0855",
+        "name": "纳米银",
+        "pctChange": 1.93,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1638",
+        "name": "最近多板",
+        "pctChange": 1.87,
+        "rank": 8
+      }
+    }
+  }
+}

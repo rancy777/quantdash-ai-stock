@@ -1,0 +1,21 @@
+# QuantDash Python dependencies
+#
+# Notes:
+# - The offline collector scripts under `scripts/fetch_*.py` currently use only
+#   the Python standard library.
+# - The packages below are required for the FastAPI-based screener service
+#   (`scripts/screener_service.py`) and related local testing.
+# - Intraday news collectors under `dingding盘中资讯2/` need additional packages
+#   for external feeds and translation.
+
+beautifulsoup4>=4.12,<5.0
+fastapi>=0.115,<1.0
+googletrans==4.0.0rc1
+httpx>=0.27,<1.0
+lxml>=5.3,<6.0
+openai>=1.0,<2.0
+playwright>=1.52,<2.0
+pydantic>=2.8,<3.0
+pywencai>=0.13.1,<1.0
+requests>=2.32,<3.0
+uvicorn>=0.30,<1.0

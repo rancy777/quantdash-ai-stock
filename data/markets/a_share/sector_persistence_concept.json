@@ -1,0 +1,57 @@
+{
+  "boardType": "concept",
+  "currentLeaderName": "玻纤制造",
+  "currentLeaderCode": "BK1462",
+  "currentLeaderPctChange": 8.32,
+  "currentStreakDays": 2,
+  "currentTopThreeAppearances": 3,
+  "strongestRepeatName": "玻纤制造",
+  "strongestRepeatCount": 3,
+  "entries": [
+    {
+      "date": "04-07",
+      "leaderName": "肉制品",
+      "leaderCode": "BK1580",
+      "leaderPctChange": 3.89,
+      "streakDays": 1,
+      "topThreeAppearances": 1,
+      "strengthDelta": null
+    },
+    {
+      "date": "04-08",
+      "leaderName": "印制电路板",
+      "leaderCode": "BK1340",
+      "leaderPctChange": 7.37,
+      "streakDays": 1,
+      "topThreeAppearances": 1,
+      "strengthDelta": null
+    },
+    {
+      "date": "04-09",
+      "leaderName": "油田服务",
+      "leaderCode": "BK1573",
+      "leaderPctChange": 1.31,
+      "streakDays": 1,
+      "topThreeAppearances": 1,
+      "strengthDelta": null
+    },
+    {
+      "date": "04-10",
+      "leaderName": "玻纤制造",
+      "leaderCode": "BK1462",
+      "leaderPctChange": 4.69,
+      "streakDays": 1,
+      "topThreeAppearances": 3,
+      "strengthDelta": null
+    },
+    {
+      "date": "04-13",
+      "leaderName": "玻纤制造",
+      "leaderCode": "BK1462",
+      "leaderPctChange": 8.32,
+      "streakDays": 2,
+      "topThreeAppearances": 3,
+      "strengthDelta": 3.63
+    }
+  ]
+}

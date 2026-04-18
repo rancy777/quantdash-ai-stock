@@ -1,0 +1,57 @@
+{
+  "boardType": "industry",
+  "currentLeaderName": "昨日连板_含一字",
+  "currentLeaderCode": "BK1051",
+  "currentLeaderPctChange": 3.71,
+  "currentStreakDays": 1,
+  "currentTopThreeAppearances": 4,
+  "strongestRepeatName": "昨日连板_含一字",
+  "strongestRepeatCount": 4,
+  "entries": [
+    {
+      "date": "04-07",
+      "leaderName": "昨日连板_含一字",
+      "leaderCode": "BK1051",
+      "leaderPctChange": 6.25,
+      "streakDays": 1,
+      "topThreeAppearances": 4,
+      "strengthDelta": null
+    },
+    {
+      "date": "04-08",
+      "leaderName": "纳米银",
+      "leaderCode": "BK0855",
+      "leaderPctChange": 7.37,
+      "streakDays": 1,
+      "topThreeAppearances": 2,
+      "strengthDelta": null
+    },
+    {
+      "date": "04-09",
+      "leaderName": "CPO概念",
+      "leaderCode": "BK1128",
+      "leaderPctChange": 2.35,
+      "streakDays": 1,
+      "topThreeAppearances": 2,
+      "strengthDelta": null
+    },
+    {
+      "date": "04-10",
+      "leaderName": "昨日连板",
+      "leaderCode": "BK0816",
+      "leaderPctChange": 4.09,
+      "streakDays": 1,
+      "topThreeAppearances": 2,
+      "strengthDelta": null
+    },
+    {
+      "date": "04-13",
+      "leaderName": "昨日连板_含一字",
+      "leaderCode": "BK1051",
+      "leaderPctChange": 3.71,
+      "streakDays": 1,
+      "topThreeAppearances": 4,
+      "strengthDelta": null
+    }
+  ]
+}

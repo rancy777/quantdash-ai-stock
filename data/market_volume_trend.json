@@ -1,0 +1,42 @@
+[
+  {
+    "date": "03-19",
+    "amount": 21110,
+    "changeRate": null
+  },
+  {
+    "date": "03-20",
+    "amount": 22869,
+    "changeRate": 8.33
+  },
+  {
+    "date": "03-23",
+    "amount": 24315,
+    "changeRate": 6.33
+  },
+  {
+    "date": "03-24",
+    "amount": 20829,
+    "changeRate": -14.34
+  },
+  {
+    "date": "03-25",
+    "amount": 21798,
+    "changeRate": 4.66
+  },
+  {
+    "date": "03-26",
+    "amount": 19436,
+    "changeRate": -10.84
+  },
+  {
+    "date": "03-27",
+    "amount": 18533,
+    "changeRate": -4.65
+  },
+  {
+    "date": "03-30",
+    "amount": 18959,
+    "changeRate": 2.3
+  }
+]

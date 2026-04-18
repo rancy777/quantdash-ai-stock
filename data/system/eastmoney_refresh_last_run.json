@@ -1,0 +1,11 @@
+{
+  "state": "idle",
+  "trigger": "script",
+  "startedAt": "2026-04-16T17:27:00.347251",
+  "finishedAt": "2026-04-16T17:27:11.140225",
+  "completed": 0,
+  "failures": 12,
+  "lastError": "502: 东方财富接口请求失败: ",
+  "scheduleEnabled": false,
+  "intervalSeconds": null
+}

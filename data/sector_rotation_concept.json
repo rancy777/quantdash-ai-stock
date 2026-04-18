@@ -1,0 +1,271 @@
+{
+  "dates": [
+    "03-27",
+    "03-26",
+    "03-25",
+    "03-24",
+    "03-23"
+  ],
+  "ranks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "data": {
+    "03-27": {
+      "1": {
+        "code": "BK1621",
+        "name": "锂",
+        "pctChange": 8.88,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1015",
+        "name": "能源金属",
+        "pctChange": 7.36,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1600",
+        "name": "医疗研发外包",
+        "pctChange": 5.72,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1625",
+        "name": "钨",
+        "pctChange": 5.35,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1434",
+        "name": "钾肥",
+        "pctChange": 5.28,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1499",
+        "name": "医美服务",
+        "pctChange": 5.03,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1594",
+        "name": "化学制剂",
+        "pctChange": 4.76,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1432",
+        "name": "氮肥",
+        "pctChange": 4.66,
+        "rank": 8
+      }
+    },
+    "03-26": {
+      "1": {
+        "code": "BK1621",
+        "name": "锂",
+        "pctChange": 4.35,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1015",
+        "name": "能源金属",
+        "pctChange": 2.89,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1302",
+        "name": "电池化学品",
+        "pctChange": 1.94,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1496",
+        "name": "洗护用品",
+        "pctChange": 0.36,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1595",
+        "name": "原料药",
+        "pctChange": 0.22,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1432",
+        "name": "氮肥",
+        "pctChange": 0.17,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1417",
+        "name": "纯碱",
+        "pctChange": -0.12,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK0465",
+        "name": "化学制药",
+        "pctChange": -0.44,
+        "rank": 8
+      }
+    },
+    "03-25": {
+      "1": {
+        "code": "BK1015",
+        "name": "能源金属",
+        "pctChange": 3.38,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1621",
+        "name": "锂",
+        "pctChange": 3.37,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1499",
+        "name": "医美服务",
+        "pctChange": 3.2,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1546",
+        "name": "电商服务",
+        "pctChange": 2.88,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1027",
+        "name": "小金属",
+        "pctChange": 2.61,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1435",
+        "name": "磷肥及磷化工",
+        "pctChange": 2.48,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK0731",
+        "name": "农化制品",
+        "pctChange": 2.01,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1600",
+        "name": "医疗研发外包",
+        "pctChange": 2.0,
+        "rank": 8
+      }
+    },
+    "03-24": {
+      "1": {
+        "code": "BK1600",
+        "name": "医疗研发外包",
+        "pctChange": 5.3,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1614",
+        "name": "铅锌",
+        "pctChange": 4.93,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1546",
+        "name": "电商服务",
+        "pctChange": 4.78,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK0727",
+        "name": "医疗服务",
+        "pctChange": 4.73,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1595",
+        "name": "原料药",
+        "pctChange": 4.56,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1625",
+        "name": "钨",
+        "pctChange": 4.42,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1496",
+        "name": "洗护用品",
+        "pctChange": 4.37,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1434",
+        "name": "钾肥",
+        "pctChange": 4.26,
+        "rank": 8
+      }
+    },
+    "03-23": {
+      "1": {
+        "code": "BK1621",
+        "name": "锂",
+        "pctChange": -0.31,
+        "rank": 1
+      },
+      "2": {
+        "code": "BK1432",
+        "name": "氮肥",
+        "pctChange": -1.45,
+        "rank": 2
+      },
+      "3": {
+        "code": "BK1015",
+        "name": "能源金属",
+        "pctChange": -1.55,
+        "rank": 3
+      },
+      "4": {
+        "code": "BK1302",
+        "name": "电池化学品",
+        "pctChange": -1.86,
+        "rank": 4
+      },
+      "5": {
+        "code": "BK1434",
+        "name": "钾肥",
+        "pctChange": -1.95,
+        "rank": 5
+      },
+      "6": {
+        "code": "BK1435",
+        "name": "磷肥及磷化工",
+        "pctChange": -2.36,
+        "rank": 6
+      },
+      "7": {
+        "code": "BK1417",
+        "name": "纯碱",
+        "pctChange": -2.76,
+        "rank": 7
+      },
+      "8": {
+        "code": "BK1442",
+        "name": "炭黑",
+        "pctChange": -3.09,
+        "rank": 8
+      }
+    }
+  }
+}

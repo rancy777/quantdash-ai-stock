@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-04-18T14:06:08.000157",
+  "currentBranch": "main",
+  "currentCommitSha": "65a003403f0cc6a45aba1c8028ee27d99d9b312d",
+  "currentCommitShort": "65a0034",
+  "currentVersion": "0.1.0",
+  "defaultBranch": "main",
+  "error": null,
+  "hasCommitUpdate": false,
+  "hasReleaseUpdate": false,
+  "hasUpdate": false,
+  "latestCommit": {
+    "author": "Rancy",
+    "committedAt": "2026-04-16T10:43:03Z",
+    "message": "feat: add macOS and Linux startup scripts",
+    "sha": "65a003403f0cc6a45aba1c8028ee27d99d9b312d",
+    "shortSha": "65a0034",
+    "url": "https://github.com/rancy777/quantdash-ai-stock/commit/65a003403f0cc6a45aba1c8028ee27d99d9b312d"
+  },
+  "latestRelease": null,
+  "repoFullName": "rancy777/quantdash-ai-stock",
+  "repoUrl": "https://github.com/rancy777/quantdash-ai-stock",
+  "source": "none"
+}

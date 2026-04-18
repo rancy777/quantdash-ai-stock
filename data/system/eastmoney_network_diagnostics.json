@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-04-16T17:27:00.012027",
+  "env": {
+    "HTTP_PROXY": null,
+    "HTTPS_PROXY": null,
+    "ALL_PROXY": null,
+    "NO_PROXY": null
+  },
+  "dns": [
+    {
+      "host": "push2.eastmoney.com",
+      "ok": true,
+      "addresses": [
+        "198.18.0.22"
+      ]
+    },
+    {
+      "host": "push2his.eastmoney.com",
+      "ok": true,
+      "addresses": [
+        "198.18.0.47"
+      ]
+    },
+    {
+      "host": "push2ex.eastmoney.com",
+      "ok": true,
+      "addresses": [
+        "198.18.0.48"
+      ]
+    },
+    {
+      "host": "datacenter-web.eastmoney.com",
+      "ok": true,
+      "addresses": [
+        "198.18.0.49"
+      ]
+    }
+  ],
+  "probes": [
+    {
+      "trustEnv": false,
+      "url": "https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&invt=2&fields=f104,f105,f106&secids=1.000001,0.399001&ut=bd1d9ddb04089700cf9c27f6f7426281",
+      "ok": false,
+      "error": "ConnectError('')"
+    },
+    {
+      "trustEnv": true,
+      "url": "https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&invt=2&fields=f104,f105,f106&secids=1.000001,0.399001&ut=bd1d9ddb04089700cf9c27f6f7426281",
+      "ok": false,
+      "error": "ConnectError('')"
+    },
+    {
+      "trustEnv": false,
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.000001&fields1=f1&fields2=f51,f52,f53,f54,f55,f57&klt=101&fqt=1&end=20500101&lmt=10",
+      "ok": false,
+      "error": "ConnectError('')"
+    },
+    {
+      "trustEnv": true,
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.000001&fields1=f1&fields2=f51,f52,f53,f54,f55,f57&klt=101&fqt=1&end=20500101&lmt=10",
+      "ok": false,
+      "error": "ConnectError('')"
+    },
+    {
+      "trustEnv": false,
+      "url": "https://push2ex.eastmoney.com/getTopicZTPool?ut=7eea3edcaed734bea9cbfc24409ed989&dpt=wz.ztzt&Pageindex=0&pagesize=10&sort=fbt%3Aasc&date=20260417",
+      "ok": false,
+      "error": "ConnectError('')"
+    },
+    {
+      "trustEnv": true,
+      "url": "https://push2ex.eastmoney.com/getTopicZTPool?ut=7eea3edcaed734bea9cbfc24409ed989&dpt=wz.ztzt&Pageindex=0&pagesize=10&sort=fbt%3Aasc&date=20260417",
+      "ok": false,
+      "error": "ConnectError('')"
+    }
+  ]
+}

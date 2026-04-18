@@ -195,6 +195,28 @@ class SkillLibraryResponse(StrictModel):
     entries: List[SkillLibraryEntry] = Field(default_factory=list)
 
 
+ScreenerStrategyMatcherKind = Literal["matcher_a", "matcher_b", "matcher_c", "matcher_d"]
+
+
+class ScreenerStrategyMatcher(StrictModel):
+    kind: ScreenerStrategyMatcherKind
+    params: Dict[str, Any] = Field(default_factory=dict)
+
+
+class ScreenerStrategyCatalogEntry(StrictModel):
+    id: str
+    name: str
+    desc: str
+    badge: str
+    iconKey: str
+    tagText: str
+    matcher: Optional[ScreenerStrategyMatcher] = None
+
+
+class ScreenerStrategyCatalogResponse(StrictModel):
+    entries: List[ScreenerStrategyCatalogEntry] = Field(default_factory=list)
+
+
 try:
     WatchlistEntry.model_rebuild()
 except AttributeError:

@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "id": "your_local_strategy_id",
+      "name": "你的本地策略名",
+      "desc": "这里写本地策略说明。这个文件会被前端读取，但不会提交到仓库。",
+      "badge": "本地",
+      "iconKey": "trending-up",
+      "tagText": "本地策略结果",
+      "matcher": {
+        "kind": "matcher_b",
+        "params": {
+          "maWindow": 5,
+          "maxTodayPct": 5,
+          "lookbackStart": 2,
+          "lookbackEnd": 6,
+          "limitUpPct": 9.5
+        }
+      }
+    }
+  ]
+}

@@ -15,6 +15,7 @@ from server.modules.github_updates import (
 )
 from server.modules.integrations import ROUTER as INTEGRATIONS_ROUTER
 from server.modules.screener import ROUTER as SCREENER_ROUTER
+from server.modules.screener_strategy_catalog import ROUTER as SCREENER_STRATEGY_CATALOG_ROUTER
 from server.modules.skill_library import ROUTER as SKILL_LIBRARY_ROUTER
 from server.modules.sync_runtime import ROUTER as SYNC_ROUTER
 from server.modules.watchlist import ROUTER as WATCHLIST_ROUTER
@@ -49,4 +50,5 @@ APP.include_router(EASTMONEY_ROUTER)
 APP.include_router(GITHUB_UPDATES_ROUTER)
 APP.include_router(AUTH_ROUTER)
 APP.include_router(WATCHLIST_ROUTER)
+APP.include_router(SCREENER_STRATEGY_CATALOG_ROUTER)
 APP.include_router(SCREENER_ROUTER)

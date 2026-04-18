@@ -2,6 +2,7 @@ import { useCallback, useMemo, useState } from 'react';
 
 import { getChiNextList, getFullMarketStockList, getStockList, checkStrategyPattern } from '../../services/quotesService';
 import { runPywencaiScreener } from '../../services/screenerService';
+import { ScreenerStrategyOption } from './config';
 import { Stock } from '../../types';
 
 type ScanProgressState = {
@@ -29,11 +30,13 @@ export default function useScreenerScanWorkflow() {
     return Object.entries(statsMap).sort((a, b) => b[1] - a[1]);
   }, [results]);
 
-  const handleStartScan = useCallback(async () => {
+  const handleStartScan = useCallback(async (strategies: ScreenerStrategyOption[]) => {
     setScanError('');
     setIsScanning(true);
     setResults([]);
     setScanProgress({ current: 0, total: 0 });
+
+    const activeStrategyConfig = strategies.find((item) => item.id === activeStrategy) ?? null;
 
     if (activeStrategy === 'pywencai') {
       const question = stockQuery.trim();
@@ -69,9 +72,9 @@ export default function useScreenerScanWorkflow() {
     let candidateList: Stock[] = [];
     if (normalizedStockQuery) {
       candidateList = await getFullMarketStockList();
-    } else if (activeStrategy === 'chinext_2board_pullback') {
+    } else if (activeStrategyConfig?.matcher?.kind === 'matcher_a') {
       candidateList = await getChiNextList();
-    } else if (activeStrategy === 'limit_up_pullback_low_protect') {
+    } else if (activeStrategyConfig?.matcher?.kind === 'matcher_d') {
       candidateList = await getFullMarketStockList();
     } else {
       candidateList = await getStockList();
@@ -103,7 +106,7 @@ export default function useScreenerScanWorkflow() {
     const validStocks: Stock[] = [];
     const scanLimit = normalizedStockQuery
       ? candidateList.length
-      : activeStrategy === 'limit_up_pullback_low_protect'
+      : activeStrategyConfig?.matcher?.kind === 'matcher_d'
         ? 120
         : 30;
     const limit = Math.min(candidateList.length, scanLimit);
@@ -113,7 +116,9 @@ export default function useScreenerScanWorkflow() {
       const stock = candidateList[index];
       setScanProgress({ current: index + 1, total: limit });
 
-      const isMatch = await checkStrategyPattern(stock.symbol, activeStrategy, { name: stock.name });
+      const isMatch = await checkStrategyPattern(stock.symbol, activeStrategyConfig?.matcher ?? null, {
+        name: stock.name,
+      });
       if (isMatch) {
         validStocks.push(stock);
       }
@@ -122,7 +127,7 @@ export default function useScreenerScanWorkflow() {
     }
 
     if (validStocks.length === 0) {
-      if (activeStrategy === 'chinext_2board_pullback') {
+      if (activeStrategyConfig?.matcher?.kind === 'matcher_a') {
         validStocks.push({
           symbol: '300000',
           name: '演示股份',
@@ -136,7 +141,7 @@ export default function useScreenerScanWorkflow() {
           pb: 4.1,
           marketCap: 120,
         });
-      } else if (activeStrategy === 'limit_up_ma5_n_pattern') {
+      } else if (activeStrategyConfig?.matcher?.kind === 'matcher_c') {
         validStocks.push({
           symbol: '600888',
           name: 'N字演示',
@@ -150,7 +155,7 @@ export default function useScreenerScanWorkflow() {
           pb: 2.1,
           marketCap: 60,
         });
-      } else if (activeStrategy === 'limit_up_pullback_low_protect') {
+      } else if (activeStrategyConfig?.matcher?.kind === 'matcher_d') {
         validStocks.push({
           symbol: '002777',
           name: '守低样本',

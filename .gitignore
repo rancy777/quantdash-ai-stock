@@ -51,6 +51,7 @@ last_cls_ts.txt
 __stock_report_page.html
 temp_index.js
 temp_mstats.html
+data/system/screener_strategies.local.json
 
 # Editor directories and files
 .vscode/*

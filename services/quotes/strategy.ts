@@ -1,4 +1,4 @@
-import type { KlineData } from '../../types';
+import type { KlineData, ScreenerStrategyMatcher } from '../../types';
 import { getStockKline } from './kline';
 import type { StrategyCheckOptions } from './shared';
 
@@ -49,9 +49,10 @@ const countTradingDaysBetween = (series: KlineData[], startIndex: number, endInd
 
 export const checkStrategyPattern = async (
   symbol: string,
-  strategyId: string,
+  matcher: ScreenerStrategyMatcher | null,
   options?: StrategyCheckOptions,
 ): Promise<boolean> => {
+  if (!matcher) return false;
   const klines = await getStockKline(symbol, 101);
   const latestTradingIndex = getLatestTradingIndex(klines);
   const len = latestTradingIndex + 1;
@@ -64,38 +65,52 @@ export const checkStrategyPattern = async (
     return ((curr - prev) / prev) * 100;
   };
 
-  if (strategyId === 'chinext_2board_pullback') {
-    if (len < 6) return false;
-    const p4 = getPct(len - 5);
-    const p3 = getPct(len - 4);
-    const isTwoBoards = p4 > 19.0 && p3 > 19.0;
-    if (!isTwoBoards) {
-      return symbol.endsWith('88');
+  if (matcher.kind === 'matcher_a') {
+    const consecutiveBars = Number(matcher.params.consecutiveBars ?? 2);
+    const pullbackDays = Number(matcher.params.pullbackDays ?? 3);
+    const boardPct = Number(matcher.params.boardPct ?? 19.0);
+    const maxDrawdown = Number(matcher.params.maxDrawdown ?? -0.15);
+    const maxRebound = Number(matcher.params.maxRebound ?? 0.05);
+    const requireChiNext = Boolean(matcher.params.requireChiNext ?? false);
+    if (len < consecutiveBars + pullbackDays + 1) return false;
+    let isTwoBoards = true;
+    for (let offset = consecutiveBars + pullbackDays; offset > pullbackDays; offset -= 1) {
+      if (getPct(len - offset) <= boardPct) {
+        isTwoBoards = false;
+        break;
+      }
     }
-
-    const peakPrice = klines[len - 4].close;
+    if (!isTwoBoards) {
+      return requireChiNext ? symbol.endsWith('88') : false;
+    }
+    const peakPrice = klines[len - (pullbackDays + 1)].close;
     const currentPrice = klines[len - 1].close;
     const drawdown = (currentPrice - peakPrice) / peakPrice;
-    return drawdown <= 0.05 && drawdown >= -0.15;
+    return drawdown <= maxRebound && drawdown >= maxDrawdown;
   }
 
-  if (strategyId === 'limit_up_pullback') {
+  if (matcher.kind === 'matcher_b') {
+    const maWindow = Number(matcher.params.maWindow ?? 5);
+    const maxTodayPct = Number(matcher.params.maxTodayPct ?? 5);
+    const lookbackStart = Number(matcher.params.lookbackStart ?? 2);
+    const lookbackEnd = Number(matcher.params.lookbackEnd ?? 6);
+    const limitUpPct = Number(matcher.params.limitUpPct ?? 9.5);
     if (len < 10) return false;
     let sum = 0;
-    for (let j = 0; j < 5; j += 1) {
+    for (let j = 0; j < maWindow; j += 1) {
       sum += klines[len - 1 - j].close;
     }
-    const ma5 = sum / 5;
+    const ma5 = sum / maWindow;
     if (klines[len - 1].close < ma5) return false;
 
     const todayPct = getPct(len - 1);
-    if (todayPct > 5) return false;
+    if (todayPct > maxTodayPct) return false;
 
     let hasLimitUp = false;
-    for (let i = 2; i <= 6; i += 1) {
+    for (let i = lookbackStart; i <= lookbackEnd; i += 1) {
       if (len - i < 0) break;
       const pct = getPct(len - i);
-      if (pct > 9.5) {
+      if (pct > limitUpPct) {
         hasLimitUp = true;
         break;
       }
@@ -103,15 +118,18 @@ export const checkStrategyPattern = async (
     return hasLimitUp;
   }
 
-  if (strategyId === 'limit_up_ma5_n_pattern') {
+  if (matcher.kind === 'matcher_c') {
+    const limitUpOffset = Number(matcher.params.limitUpOffset ?? 3);
+    const limitUpPct = Number(matcher.params.limitUpPct ?? 9.5);
+    const maWindow = Number(matcher.params.maWindow ?? 5);
     if (len < 6) return false;
 
     const idxToday = len - 1;
-    const idxTwoDaysAgo = len - 3;
+    const idxTwoDaysAgo = len - limitUpOffset;
     if (idxTwoDaysAgo < 0) return false;
 
     const pctT2 = getPct(idxTwoDaysAgo);
-    if (pctT2 < 9.5) return false;
+    if (pctT2 < limitUpPct) return false;
 
     const closeToday = klines[idxToday].close;
     const closeT2 = klines[idxTwoDaysAgo].close;
@@ -119,18 +137,22 @@ export const checkStrategyPattern = async (
 
     if (idxToday < 4) return false;
     let sum = 0;
-    for (let j = 0; j < 5; j += 1) {
+    for (let j = 0; j < maWindow; j += 1) {
       const idx = idxToday - j;
       if (idx < 0) return false;
       sum += klines[idx].close;
     }
-    const ma5Today = sum / 5;
+    const ma5Today = sum / maWindow;
     if (closeToday < ma5Today) return false;
 
     return true;
   }
 
-  if (strategyId === 'limit_up_pullback_low_protect') {
+  if (matcher.kind === 'matcher_d') {
+    const recentLookback = Number(matcher.params.recentLookback ?? 8);
+    const minTradingGap = Number(matcher.params.minTradingGap ?? 1);
+    const maxTradingGap = Number(matcher.params.maxTradingGap ?? 7);
+    const volumeRatio = Number(matcher.params.volumeRatio ?? 0.5);
     if (len < 10) return false;
 
     const limitThreshold = getLimitUpThreshold(symbol, options);
@@ -144,7 +166,7 @@ export const checkStrategyPattern = async (
       }
     }
 
-    const recentLimitUpCount = countRecentTrue(limitUpFlags, 8, len - 1);
+    const recentLimitUpCount = countRecentTrue(limitUpFlags, recentLookback, len - 1);
     if (recentLimitUpCount === 0) return false;
 
     const eConditionFlags: boolean[] = Array(len).fill(false);
@@ -158,7 +180,7 @@ export const checkStrategyPattern = async (
       }
     }
 
-    const recentECount = countRecentTrue(eConditionFlags, 8, len - 1);
+    const recentECount = countRecentTrue(eConditionFlags, recentLookback, len - 1);
     if (recentECount === 0) return false;
 
     let lastEIndex = -1;
@@ -171,7 +193,7 @@ export const checkStrategyPattern = async (
     if (lastEIndex === -1) return false;
 
     const tradingGap = countTradingDaysBetween(klines, lastEIndex, len - 1);
-    if (tradingGap < 1 || tradingGap > 7) return false;
+    if (tradingGap < minTradingGap || tradingGap > maxTradingGap) return false;
 
     const limitUpIndex = lastEIndex - 1;
     if (limitUpIndex < 0 || limitUpIndex >= len) return false;
@@ -182,7 +204,7 @@ export const checkStrategyPattern = async (
     if (!today || !Number.isFinite(limitUpLow)) return false;
 
     const priceProtected = today.low >= limitUpLow;
-    const volumeProtected = volumeE <= 0 ? true : today.volume <= volumeE * 0.5;
+    const volumeProtected = volumeE <= 0 ? true : today.volume <= volumeE * volumeRatio;
     return priceProtected && volumeProtected;
   }
 

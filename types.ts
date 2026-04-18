@@ -478,6 +478,23 @@ export interface SyncRuntimeStatus {
   pid: number | null;
 }
 
+export type ScreenerStrategyMatcherKind = 'matcher_a' | 'matcher_b' | 'matcher_c' | 'matcher_d';
+
+export interface ScreenerStrategyMatcher {
+  kind: ScreenerStrategyMatcherKind;
+  params: Record<string, unknown>;
+}
+
+export interface ScreenerStrategyCatalogEntry {
+  id: string;
+  name: string;
+  desc: string;
+  badge: string;
+  iconKey: string;
+  tagText: string;
+  matcher: ScreenerStrategyMatcher | null;
+}
+
 export interface SectorItem {
   code: string;
   name: string;

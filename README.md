@@ -1,35 +1,34 @@
 简体中文 | [English](./README.en.md) | [日本語](./README.ja.md)
 
-> 当你不再幻想索取什么，
-> 而只是机械地执行规则时，
-> 反而会得到应得的那一份。
->
-> -- 葛卫东
->
-> 将你看的数据自动获取，
-> 然后将你的想法做成 skills，
-> 进行 AI 一键复盘。
->
-> 项目长期更新。
-> 拿走拜托点个 Star。
-
 # QuantDash A股看盘与复盘面板
 
-一个基于 Vite + React 的 A 股分析面板，包含股票信息、策略选股、连板天梯、板块轮动、情绪指标、AI 复盘与盘前计划。
+基于 Vite + React 的 A 股分析面板。
 
-这个项目支持按你的复盘口径选择分析数据，并把你自己的复盘方法、交易框架，或其它高手的布道内容沉淀成 skill，对指定数据做定制化分析。
+当前覆盖这些页面和能力：
+
+- 股票信息
+- 选股工具
+- 连板天梯
+- 板块轮动
+- 情绪指标
+- 信息收集
+- AI 复盘
+- 盘前计划
+- Skills
+
+项目支持把自己的复盘口径、交易框架、观察清单整理成 skill，然后注入到 AI 复盘、盘前计划、个股观察和研报摘要。
 
 完整项目手册见：[项目使用手册.md](./项目使用手册.md)
 
 ## 最近更新
 
-最近一轮更新重点不是改视觉风格，而是把项目从“页面大组件 + 前端直连外部源”继续收口成“前端容器化 + Python 数据层 + 可切换第二数据源 + 统一服务基础设施”。
+这一轮主要改了结构和数据链路。
 
 - 前端大页面继续拆成 `container + hook + panel`
-- 高频 EastMoney 请求统一切到 Python 代理 / action 层
+- 高频 EastMoney 请求统一走 Python 代理 / action 层
 - 第二数据源 `mootdx` 已接入 `K线 / 基础行情 / 市场宽度 / 指数序列`
-- 后端已补统一缓存、连接池、线程池、事务上下文、异常处理、鉴权收口
-- GitHub 板块新增启动自动检查更新 + 手动检查更新按钮
+- 后端补了缓存、连接池、线程池、事务上下文、异常处理、鉴权
+- GitHub 页面加了启动检查更新和手动检查更新
 
 详细变更可看：
 
@@ -42,22 +41,16 @@
 
 ### 前端重构
 
-- `AIIntegrationSection` 已拆成工作区头部、模型配置、飞书配置、文档面板和 workflow hooks
-- `SentimentSection` 已拆成指标工具条、历史日期条、独立面板和数据 hooks
-- `InfoGatheringSection` 已拆成 page shell、左侧 sidebar、右侧 detail pane 和 workflow hooks
-- `ScreenerSection`、`LimitUpLadderSection`、`StockHoverCard` 已继续拆分
+- `AIIntegrationSection` 拆成工作区头部、模型配置、飞书配置、文档面板、workflow hooks
+- `SentimentSection` 拆成指标工具条、历史日期条、独立面板、数据 hooks
+- `InfoGatheringSection` 拆成 page shell、左侧 sidebar、右侧 detail pane、workflow hooks
+- `ScreenerSection`、`LimitUpLadderSection`、`StockHoverCard` 继续拆分
 
 ### 数据源治理
 
 - 浏览器不再直接请求 EastMoney
 - 前端统一走本地 Python 服务的 `/eastmoney/*`
-- 代理层已支持：
-  - 请求去重
-  - 缓存
-  - 失败冷却
-  - 并发上限
-  - 快照回退
-  - 最小请求间隔和轻量重试
+- 代理层已支持请求去重、缓存、失败冷却、并发上限、快照回退、最小请求间隔、轻量重试
 
 ### 第二数据源 mootdx
 
@@ -151,7 +144,7 @@ GitHub 页面现在支持：
 - 板块轮动、题材持续性、跨市场情绪指标
 - 本地研报清单、研报摘要、重点资讯聚合
 - `AI 当日复盘`、`盘前计划`、个股观察
-- `Skills` 提示词规则库，可把多个分析 skill 注入到 AI 复盘、盘前计划、个股观察和研报摘要
+- `Skills` 规则库，可把多个分析 skill 注入到 AI 复盘、盘前计划、个股观察和研报摘要
 - 个股悬浮卡支持主图 `MA` 均线开关与缠论结构叠加显示（笔 / 线段 / 中枢）
 - 本地 `stdio` MCP Server，供外部 AI 直接读取结构化数据
 - 飞书问答机器人，可复用项目内结构化数据和模型线路
@@ -234,7 +227,7 @@ Windows 仍可继续使用 `start_project.bat` / `start_project.ps1`，macOS / L
 ## 数据分工
 
 新增界面数据功能前，先看 [STRUCTURED_DATA_RULES.md](./STRUCTURED_DATA_RULES.md)。
-新增到界面的数据，先整理成结构化对象，再进入服务层和页面，不要直接以页面拼接结果作为数据边界。
+新增到界面的数据，先整理成结构化对象，再进入服务层和页面。不要直接把页面拼接结果当数据边界。
 
 技术分工规则：
 
@@ -504,7 +497,7 @@ AI 通过 MCP 读取结构化数据，再做情绪周期、龙头状态、题材
 
 ## AI 对接
 
-左侧新增了 `AI对接` 页面，负责模型接入配置，并提供 `AI 当日复盘`、`盘前计划`、研报摘要等实际调用能力。
+左侧有 `AI对接` 页面。这里做模型接入配置，也承接 `AI 当日复盘`、`盘前计划`、研报摘要等调用。
 
 - 可在页面中维护各家模型线路：
   `ChatGPT / OpenAI`
@@ -554,7 +547,7 @@ AI 通过 MCP 读取结构化数据，再做情绪周期、龙头状态、题材
 
 左侧 `Skills` 页面位于 `AI对接` 和 `GitHub` 之间。
 
-这一页不是 GitHub 技能市场，而是项目内的 AI 分析规则库。你可以创建多条 skill，并为每条 skill 设置：
+这一页不是 GitHub 技能市场，是项目内的 AI 分析规则库。你可以创建多条 skill，并为每条 skill 设置：
 
 - 名称
 - 一句话描述
